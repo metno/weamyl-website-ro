@@ -25,7 +25,7 @@ repository: "metno/..."
 title_separator: "-"
 minimal_mistakes_skin: default
 search: false
-logo: "/assets/images/LogoMyLFinal-01.png"
+logo: "https://weamyl.met.no/assets/images/LogoMyLFinal-01.png"
 
 # Build settings
 markdown: kramdown
@@ -74,7 +74,7 @@ author:
       url: "https://"
 
 footer:
-  image: /assets/images/LogoMyLFinal-01.png
+  image: https://weamyl.met.no/assets/images/LogoMyLFinal-01.png
   links:
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"
