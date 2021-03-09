@@ -28,5 +28,5 @@ Perioada de realizare: din septembrie 2020 până în august 2023.
 <img src="https://weamyl.met.no/assets/images/uefiscdi-logo-full-RO.png" width="120" height="120"/>
 <img src="https://weamyl.met.no/assets/images/ubb.png" width="120" height="120"/>
 <img src="https://weamyl.met.no/assets/images/anm.png" width="120" height="120"/>
-<img src="https://weamyl.met.no/assets/images/met.png" width="300"/>
+<img src="https://weamyl.met.no/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
 </p>
