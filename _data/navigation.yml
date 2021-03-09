@@ -1,35 +1,34 @@
 main:
-  - title: Despere WeaMyL
+  - title: Despre WeaMyL
     url: /about/
-  - title: Disseminare
+  - title: Diseminare
     url: /dissemination/
-  - title: Parteneri 
+  - title: Parteneri
     url: /partners/
   - title: Contact
     url : /contact/
-  - title: English
+  - title: Engleză
     url: https://weamyl.met.no
 
 page_links:
   - title: Pagini
     children:
-    - title: Despere WeaMyL
+    - title: Despre WeaMyL
       url: /about/
-    - title: Disseminare
+    - title: Diseminare
       url: /dissemination/
     - title: Parteneri
       url: /partners/
     - title: Contact
       url : /contact/
-    
+
   - title: Linkuri Externe
     children:
     - title: MET Norway
       url: https://met.no/
     - title: Universitatea Babeş-Bolyai
       url: https://www.ubbcluj.ro/en/
-    - title: Administrația Națională de Meteorologie 
-      url: www.meteoromania.ro
+    - title: Administrația Națională de Meteorologie
+      url: http://www.meteoromania.ro
     - title: EEA and Norway Grants
       url: https://www.forskningsradet.no/en/apply-for-funding/international-funding/EEA/eos-midlene-romania/
-

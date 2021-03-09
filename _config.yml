@@ -25,7 +25,7 @@ repository: "metno/..."
 title_separator: "-"
 minimal_mistakes_skin: default
 search: false
-logo: "assets/images/LogoMyLFinal-01.png"
+logo: "https://weamyl.met.no/assets/images/LogoMyLFinal-01.png"
 
 # Build settings
 markdown: kramdown
@@ -39,6 +39,12 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-17RV2YBYQ0"
+    anonymize_ip: true
 
 include:
   - _pages
@@ -74,7 +80,7 @@ author:
       url: "https://"
 
 footer:
-  image: /assets/images/LogoMyLFinal-01.png
+  image: https://weamyl.met.no/assets/images/LogoMyLFinal-01.png
   links:
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"

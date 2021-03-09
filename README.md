@@ -11,8 +11,6 @@ excerpt: >
   Îmbunătățirea  performanței  sistemelor naționale de avertizare meteorologică prin utilizarea tehnicilor de învățare profundă aplicate pe date radar, satelit și observații meteorologice
 ---
 
-[EN](/){: .btn .btn--primary}
-
 Proiectul WeaMyL își propune să îmbunătățească acuratețea, performanța și fiabilitatea sistemelor naționale de avertizare nowcasting prin utilizarea tehnicilor de învățare automată (ML) aplicate pe observațiile radarului, satelitului și stațiilor meteo.
 Accentul se va pune pe obținerea unei precizii mai mari în prezicerea apariției și a zonelor afectate de fenomene meteorologice severe, precum și pe obținerea unor timpi de decizie mai mici (în comparație cu timpi de decizie actuali, exclusiv umani).
 Scopul principal al proiectului este de a automatiza sistemele de avertizare nowcasting prin crearea unei platforme bazate pe ML pentru prognoza timpurie și precisă a fenomenelor severe. Astfel, se urmărește să fie coloana vertebrală a unui nou cadru pentru detectarea iminentă a vremii severe, adaptat posibilităților tehnologice actuale.
