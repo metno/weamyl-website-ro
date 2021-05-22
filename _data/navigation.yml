@@ -5,8 +5,12 @@ main:
     url: /dissemination/
   - title: Parteneri
     url: /partners/
+  - title: Modele de nowcasting
+    url: /modele/
   - title: Contact
     url : /contact/
+  - title: Confidențialitate
+    url: /privacy/
   - title: Engleză
     url: https://weamyl.met.no
 
