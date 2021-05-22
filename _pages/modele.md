@@ -1,6 +1,6 @@
 ---
-permalink: /models/
-title: "Nowcasting models"
+permalink: /modele/
+title: "Modele de nowcasting"
 ---
 
 
