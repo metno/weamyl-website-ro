@@ -81,7 +81,7 @@ author:
 
 footer:
   image: https://weamyl.met.no/assets/images/LogoMyLFinal-01.png
-  image: assets/images/En2.png
+  image2: /assets/images/En2.png
   links:
     - label: "MET Norway"
       icon: "fas fa-fw fa-water"
