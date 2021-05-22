@@ -1,27 +1,26 @@
 ---
 permalink: /privacy/
-title: "Privacy"
+title: "confidențialitate"
 ---
 
 
-# WeaMyL Privacy Policy Statement
+# Declarație privind politica de confidențialitate WeaMyL
 
 
-This privacy policy statement explains how WeaMyL collects and uses personal data. 
+Această declarație de politică de confidențialitate explică modul în care WeaMyL colectează și utilizează datele cu caracter personal.
 
-## Processing of personal data on WeaMyL website
+## Prelucrarea datelor cu caracter personal pe site-ul WeaMyL
 
-The system owner/web editor is responsible for processing personal data for the website. The website is operated by the Norwegian Meteorological Institute using Jekyll and Github pages tools.
+Proprietarul sistemului / editorul web este responsabil pentru prelucrarea datelor cu caracter personal pentru site. Site-ul este operat de Institutul Meteorologic Norvegian utilizând instrumentele Jekyll și Github Pages.
 
-## Google analytics and cookies
+## Google Analytics și cookie-uri
 
-This website uses Google Analytics for web analysis and visitor statistics. The site uses cookies so that we can see and analyse how our site is used.
+Acest site web folosește Google Analytics pentru analiza web și statistici ale vizitatorilor. Site-ul folosește cookie-uri, astfel încât să putem vedea și analiza modul în care este utilizat.
 
-The information that cookies collect about your use of the website is sent to Google and stored on the company’s servers in the United States. An anonymous IP address has been implemented before Google Analytics stores the information. This means that the analysis tool can estimate the user’s geographical location, but the IP address can not be used to identify you as a user.
+Informațiile pe care le colectează cookie-urile despre utilizarea dvs. a site-ului sunt trimise către Google și stocate pe serverele companiei din Statele Unite. O adresă IP anonimă a fost implementată înainte ca Google Analytics să stocheze informațiile. Aceasta înseamnă că instrumentul de analiză poate estima locația geografică a utilizatorului, dar adresa IP nu poate fi utilizată pentru a vă identifica ca utilizator.
 
-Google will use this information to evaluate use of the website, compile reports for us about website activity and provide other services in connection with the activity on the website and use of the internet.
+Google va folosi aceste informații pentru a evalua utilizarea site-ului, pentru a compila rapoarte pentru noi despre activitatea site-ului și pentru a oferi alte servicii în legătură cu activitatea de pe site și utilizarea internetului.
 
-By using this website you agree that Google will process information about you in this way and for the purposes described above. It is possible to opt out of all Google Analytics registration by installing an add-on for your browser. The add-on can be downloaded [here](https://tools.google.com/dlpage/gaoptout) Google Analytics Opt-out Browser Add-on.
+Prin utilizarea acestui site, sunteți de acord că Google va prelucra informații despre dvs. în modul și scopurile descrise mai sus. Este posibil să renunțați la toate înregistrările Google Analytics instalând un supliment pentru browserul dvs. Suplimentul poate fi descărcat de aici: [Suplimentul browserului de renunțare la Google Analytics](https://tools.google.com/dlpage/gaoptout).
 
-Collected data is subject to Google’s privacy policy. WeaMyL will use the statistical information to improve the website. We will not use the information to identify individuals. The statistical data will not be put together with data from other sources.
-
+Datele colectate fac obiectul politicii de confidențialitate Google. WeaMyL va utiliza informațiile statistice pentru a îmbunătăți site-ul web. Nu vom folosi informațiile pentru a identifica persoane. Datele statistice nu vor fi combinate cu date din alte surse.
