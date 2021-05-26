@@ -17,7 +17,7 @@ Scopul principal al proiectului este de a automatiza sistemele de avertizare _no
 
 WeaMyL implică un consorțiu multidisciplinar care include Universitatea Babeș-Bolyai (UBB) ca instituție de frunte în învățarea automată, Administrația Națională de Meteorologie din România (ANM) ca echipă românească de vârf în cercetare și meteorologie operațională și două echipe de la Institutul Meteorologic Norvegian (MET) una având expertiză în cercetarea meteorologică și cealaltă în învățarea automată și dezvoltarea de software.
 
-Proiectul WeaMyL este finanțat de granturile SEE și Norvegiene sub numărul RO-NO-2019-0133. Contract: nr. 26/2020.
+Proiectul WeaMyL este finanțat de granturile Norvegiene sub numărul RO-NO-2019-0133. Contract: nr. 26/2020.
 
 Bugetul total al proiectului este de aproximativ 1 milion de euro.
 
