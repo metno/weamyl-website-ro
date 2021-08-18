@@ -27,17 +27,13 @@ O prezentare generală a rezultatelor proiectului.
 4. Czibula, G., Mihai, A., Czibula, I.G., [RadRAR:  A relational association rule mining approach for nowcasting based on predicting radar products' values](https://weamyl.met.no/assets/files/KES2020.pdf), 24nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309
 
 ## Seminarii și ateliere
-<ul>
-<li>24 mai 2021, <a href=http://www.cs.ubbcluj.ro/weadl/> Primul atelier de Applied Deep Learning </a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.
-</li>
-</ul>
+1. 24 mai 2021, [Primul atelier de Applied Deep Learning] (http://www.cs.ubbcluj.ro/weadl/) a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.
 
-##  Comunicate de presă
-<ul>
-<li><a href=https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf> Comunicat de presă, NMA, 01.2021</a></li>
-<li><a href=http://www.cs.ubbcluj.ro/weadl-2021/>Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021</a></li>
-<li><a href=https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/>Comunicat de presă, UBB, 27.05.2021</a></li>
-</ul>
+
+##  Comunicate de presă 
+1. [Comunicat de presă, NMA, 01.2021](https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf)
+2. [Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021](http://www.cs.ubbcluj.ro/weadl-2021/)
+3. [Comunicat de presă, UBB, 27.05.2021](https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/)
 
 ## Rețele sociale
 ## Raportare anuală
