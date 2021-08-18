@@ -30,7 +30,7 @@ O prezentare generală a rezultatelor proiectului.
 1. 24 mai 2021, [Primul atelier de Applied Deep Learning] (http://www.cs.ubbcluj.ro/weadl/) a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.
 
 
-##  Comunicate de presă
+##  Comunicate de presă 
 1. [Comunicat de presă, NMA, 01.2021](https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf)
 2. [Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021](http://www.cs.ubbcluj.ro/weadl-2021/)
 3. [Comunicat de presă, UBB, 27.05.2021](https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/)
