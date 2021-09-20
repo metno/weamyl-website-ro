@@ -16,6 +16,7 @@ O prezentare generală a rezultatelor proiectului.
 4. Albu, Alexandra-Ioana: Towards learning transferable embeddings for protein conformations using Variational Autoencoders, 25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2021), Procedia Computer Science, accepted for publication (B-ranked according to CORE classification, http://portal.core.edu.au/conf-ranks/, indexed WoS).
 5. Gabriela Czibula, Alexandra Albu, Maria Iuliana Bocicor, Camelia Chira, AutoPPI: An ensemble of deep autoencoders for protein-protein interaction prediction, Entropy, Special issue on Computational Methods and Algorithms for Bioinformatics, 23(6), 643, 2021, https://www.mdpi.com/1099-4300/23/6/643 (2020 IF=2.524, Q2).
 6. Bratu A., Czibula G., DAuGAN: An approach for augmenting time series imbalanced datasets via latent space sampling using adversarial techniques, Scientific Programming, 2021, accepted for publication (2020 IF=1.025, Q4).
+7. Nistor, S.C., Czibula, G., IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach,  Expert systems with Applications, 2021, accepted for publication, in press,  (2020 IF=6.954, Q1)
 
 ### Publicații anterioare
 
