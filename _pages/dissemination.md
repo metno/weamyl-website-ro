@@ -46,7 +46,7 @@ O prezentare generală a rezultatelor proiectului.
 10. Maria-Mădălina Mircea (UBB): [A machine learning approach for data protection in VR therapy applications](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20Approach%20for%20Data%20Protection%20in%20VR%20-%20Mircea%20Maria-Madalina.pdf)
 11. Andrei Bratu (UBB): [Augmenting time series datasets via latent space sampling with applications in algorithmic trading](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/%20Augmenting%20time%20series%20datasets%20for%20algorithmic%20trading%20-%20Andrei%20Bratu.pdf)
 12. Iulia-Monica Szuhai (UBB): [DNA classification using supervised deep learning](http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf)
-13. Sorin Burcea (ANM): [Proiect WeaMyL](/assets/files/prezentare_interna_Meteo.pdf)
+13. Sorin Burcea (ANM): [Proiect WeaMyL](https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf)
 
 ## Video
 1. Eugen Mihuleț (NMA): [Technology in weather forecasting](https://www.youtube.com/watch?v=_Jxk9NMJMZ4)
