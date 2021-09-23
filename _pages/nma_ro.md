@@ -9,7 +9,7 @@ Echipa de cercetare a Administrației Naționale de Meteorologie, implicată în
 
 * Dr. Sorin Burcea
 
-  Dr. Sorin Burcea este cercetător științific la Administrația Națională de Meteorologie, București, România. Activitatea sa se concentrează pe meteorologia radar, iar principalele sale domenii de interes cuprind climatologia furtunilor bazată pe radar,evaluarea riscului meteorologic sever, estimarea cantitativă a precipitațiilor radar, calitatea datelor meteo radarși algoritmi de procesare.
+  Dr. Sorin Burcea este cercetător științific la Administrația Națională de Meteorologie, București, România. Activitatea sa se concentrează pe meteorologia radar, iar principalele sale domenii de interes cuprind climatologia furtunilor bazată pe radar, evaluarea riscului meteorologic sever, estimarea cantitativă a precipitațiilor radar, calitatea datelor meteo radar și algoritmi de procesare.
 [Profil Research Gate](https://www.researchgate.net/profile/Sorin-Burcea)
 * Eugen Mihuleț, meteorolog previzionist
 * Dr. Gabriela Băncilă
