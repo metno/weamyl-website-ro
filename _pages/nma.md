@@ -8,6 +8,9 @@ Administrația Națională de Meteorologie emite avertizări pentru public și a
 Echipa de cercetare a Administrației Naționale de Meteorologie, implicată în proiectul WeaMyL, este multidisciplinară, cu expertiză în cercetarea vremii severe, meteorologie radar și satelitară, prelucrarea și analiza datelor meteorologice, prognoza vremii, cercetarea și serviciile climatice. Din această echipă fac parte:
 
 * Dr. Sorin Burcea
+
+  Dr. Sorin Burcea este cercetător științific la Administrația Națională de Meteorologie, București, România. Activitatea sa se concentrează pe meteorologia radar, iar principalele sale domenii de interes cuprind climatologia furtunilor bazată pe radar,evaluarea riscului meteorologic sever, estimarea cantitativă a precipitațiilor radar, calitatea datelor meteo radarși algoritmi de procesare.
+  [Profil Research Gate](https://www.researchgate.net/profile/Sorin-Burcea)
 * Eugen Mihuleț, meteorolog previzionist
 * Gabriela Băncilă, Phd
 * Andrei Diamandi, Phd
@@ -20,4 +23,4 @@ Echipa de cercetare a Administrației Naționale de Meteorologie, implicată în
 * Cristina Blaga, meteorolog previzionist
 * Adela Mitea, meteorolog previzionist
 * Gabriela Harpa, meteorolog previzionist
-* Narcisa Milian, meteorolog previzionist 
+* Narcisa Milian, meteorolog previzionist
