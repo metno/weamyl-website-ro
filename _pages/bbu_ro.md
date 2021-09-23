@@ -10,7 +10,7 @@ Membrii grupului MLyRE care participă în proiectul WeaMyL:
 * <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Dr. Czibula Gabriela </a>
 <table>
 <tr>
-<td width="25%"> <center><img src="/_site/assets/images/bio/circle_GabrielaCzibula.png" />  </center> </td>
+<td width="25%"> <center><img src="https://weamyl.met.no/assets/images/bio/circle_GabrielaCzibula.png" />  </center> </td>
 <td align="justify">
 Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Facultății de Matematică și Informatică, Universitatea Babeș-Bolyai Cluj-Napoca, România. A obținut titlul de doctor în Informatică în anul 2003. A publicat peste 200 de lucrări în jurnale și la conferințe de prestigiu. Domeniile sale de cercetare includ Inteligența Computațională, Machine Learning, Inteligență Artificială și Sisteme Multiagent Distribuite, Bioinformatică.<br>
 <a href="https://scholar.google.com/citations?user=0_ybi_oAAAAJ&hl=ro"> Google Scholar Profile </a>
