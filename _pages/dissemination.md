@@ -29,6 +29,8 @@ O prezentare generală a rezultatelor proiectului.
 4. Czibula, G., Mihai, A., Czibula, I.G., [RadRAR:  A relational association rule mining approach for nowcasting based on predicting radar products' values](https://weamyl.met.no/assets/files/KES2020.pdf), 24nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309
 
 ## Teze de doctorat
+* Andrei Mihai, [Modele de învățare automată pentru
+prognoza pe termen scurt a vremii](https://metno.github.io/weamyl-website-ro/assets/files/PhDAndrei_ro.pdf)
 
 ## Seminarii și ateliere
 1. 24 mai 2021, [Primul atelier de Applied Deep Learning](http://www.cs.ubbcluj.ro/weadl/) a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.
