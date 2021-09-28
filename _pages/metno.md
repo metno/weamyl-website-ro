@@ -12,14 +12,14 @@ Echipa de cercetare MET Norvegia este formată din:
  <tr>
  <td align="justify">
  Anne-Cecilie Riiser este directorul departamentului de IT (CIO) la Institutul Meteorologic Norvegian, în Oslo, Norvegia. A absolvit un masterat științific în Fizică Teoretică și un program Executive MBA în Global E-Management. Principalele sale domenii de interes sunt: metodologii de dezvoltare IT, metodologii de operare IT, arhitectura IT, inteligență artificială și noi tendințe ale tehnologiei.
- [LinkedIn](https://www.linkedin.com/in/anne-cecilie-riiser-b8885b/)
+ <a href="https://www.linkedin.com/in/anne-cecilie-riiser-b8885b/">LinkedIn</a>
  </td></tr></table>
  - Lisbeth Bergholt, informatician senior
  <table>
  <tr>
  <td align="justify">
  Lisbeth Bergholt lucrează ca informatician senior la Institutul Meteorologic Norvegian, în Oslo, Norvegia și are un doctorat în Fizică Nucleară. Principalele sale domenii de interes sunt: proiecte open source, prelucrarea datelor meteorologice pentru meteorologiști pentru public.
- [LinkedIn](https://www.linkedin.com/in/lisbeth-bergholt-a1544a3/)
+ <a href="https://www.linkedin.com/in/lisbeth-bergholt-a1544a3/">LinkedIn</a>
  </td></tr></table>
  - Børge Moe, informatician senior
  - Nina Elisabeth Larsgård, cercetător
@@ -44,7 +44,7 @@ Echipa de cercetare MET Norvegia este formată din:
  <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/abdelkader_metno.jpg" /> </center> </td>
  <td align="justify">
  Dr. Abdelkader Mezghani este om de știință senior în grupul de Analiză și Modelare a Climatului, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes cuprind redimensionarea informațiilor legate de vreme și climat, analiză statistică, programare și dezvoltare web, modele pentru temperatură și precipitații, Big data, rețele neuronale.
-[ORCID](https://orcid.org/0000-0003-2825-5884); [LinkedIn](https://www.linkedin.com/in/abdelkader-mezghani-8a3aa127/?originalSubdomain=no); [Google Scholars](https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en)
+<a href="https://orcid.org/0000-0003-2825-5884">ORCID</a>; <a href="https://www.linkedin.com/in/abdelkader-mezghani-8a3aa127/?originalSubdomain=no">LinkedIn</a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en">Google Scholars</a>
 </td></tr></table>
  - Kajsa Maria Parding, om de știință junior
  - Helena Birkeland Erlandsen, om de știință junior
