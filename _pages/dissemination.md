@@ -58,8 +58,10 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p> 2021, Andrei Bratu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/%20Augmenting%20time%20series%20datasets%20for%20algorithmic%20trading%20-%20Andrei%20Bratu.pdf">Augmenting time series datasets via latent space sampling with applications in algorithmic trading</a>
 <li style="font-size:80%"> <p>2021, Iulia-Monica Szuhai (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf">DNA classification using supervised deep learning</a>
 <li style="font-size:80%"> <p>2021, Sorin Burcea (ANM): <a href="https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf">Proiect WeaMyL</a>
+</ul>
 
 ## Video
+<ul>
 <li style="font-size:80%"> <p>2021, Eugen Mihuleț (NMA): <a  href="https://www.youtube.com/watch?v=_Jxk9NMJMZ4">Technology in weather forecasting</a>
 <li style="font-size:80%"> <p> 2021, Sorin Burcea (NMA): <a  href="https://www.youtube.com/watch?v=9XpdoY2vG98">Weather radars - basic principles and application in nowcasting in Romania</a>
 <li style="font-size:80%"> <p> 2021, Thomas Nipen (MET): <a  href="https://www.youtube.com/watch?v=0iIty6GnlX8">Nowcasting on Yr - opportunities and challenges</a>
@@ -79,12 +81,18 @@ O prezentare generală a rezultatelor proiectului.
 
 ##  Comunicate de presă, Testimoniale
 <ul>
+
 <li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/rector.pdf">Discursul rectorului la ceremonia de deschidere, atelierul de lucru WeADL, 2021</a>
+
 <li style="font-size:80%"> <p> <a  href="https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf">Comunicat de presă, ANM, 01.2021</a>
+
 <li style="font-size:80%"> <p> <a  href="http://www.cs.ubbcluj.ro/weadl-2021/">Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021</a>
 
 
 <li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/">Comunicat de presă, UBB, 27.05.2021</a>
 
+</ul>
+
 ## Rețele sociale
+
 ## Raportare anuală
