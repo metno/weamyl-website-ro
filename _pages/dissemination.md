@@ -47,34 +47,34 @@ O prezentare generală a rezultatelor proiectului.
 <ul>
 <li style="font-size:80%"> <p> 2021, Eugen Mihuleț (ANM): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Technology%20in%20Weather%20Forecasting%20-%20Eugen%20Mihulet.pdf">Technology in weather forecasting</a></p></li>
 <li style="font-size:80%"> <p>2021, Sorin Burcea (ANM): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Weather%20Radars%20-%20Burcea%20Sorin.pdf">Weather radars basic principles and application in nowcasting in Romania</a></p></li>
-<li style="font-size:80%"> <p> 2021, Ivar Seierstad & Thomas Nipen (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Nowcasting%20on%20Yr%20-%20Thomas%20Nipen.pdf">Nowcasting on Yr - opportunities and challenges</a>
-<li style="font-size:80%"> <p> 2021, Arild Burud (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Introduction%20to%20netCDF%20and%20THREDDS%20-%20Arild%20Burud.pdf">A brief introduction to the netCDF format and THREDDS data server</a>
-<li style="font-size:80%"> <p> 2021, Istvan Czibula (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Computational%20Models%20for%20Nowcasting%20-%20Istvan%20Czibula.pdf">Computational models for nowcasting</a>
-<li style="font-size:80%"> <p> 2021, Andrei Mihai (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf">Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region</a>
-<li style="font-size:80%"> <p> 2021, Vlad Ionescu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf">Deep neural network models for nowcasting using satellite data</a>
-<li style="font-size:80%"> <p> 2021, George Ciubotariu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Enhance%20performance%20of%20image%20classification%20-%20George%20Cuibotariu.pdf">Enhancing the performance of indoor-outdoor image classifications using features extracted from depth-maps</a>
-<li style="font-size:80%"> <p> 2021, Alexandru-Marian Adăscăliței (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Review%20of%20Grayscale%20Photo%20Colorization%20-%20Alexandru%20Marian%20Adascalitei.pdf">Review and analysis of grayscale photography colorization using CNNs</a>
-<li style="font-size:80%"> <p> 2021, Maria-Mădălina Mircea (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20Approach%20for%20Data%20Protection%20in%20VR%20-%20Mircea%20Maria-Madalina.pdf">A machine learning approach for data protection in VR therapy applications</a>
-<li style="font-size:80%"> <p> 2021, Andrei Bratu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/%20Augmenting%20time%20series%20datasets%20for%20algorithmic%20trading%20-%20Andrei%20Bratu.pdf">Augmenting time series datasets via latent space sampling with applications in algorithmic trading</a>
-<li style="font-size:80%"> <p>2021, Iulia-Monica Szuhai (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf">DNA classification using supervised deep learning</a>
-<li style="font-size:80%"> <p>2021, Sorin Burcea (ANM): <a href="https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf">Proiect WeaMyL</a>
+<li style="font-size:80%"> <p> 2021, Ivar Seierstad & Thomas Nipen (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Nowcasting%20on%20Yr%20-%20Thomas%20Nipen.pdf">Nowcasting on Yr - opportunities and challenges</a></p></li>
+<li style="font-size:80%"> <p> 2021, Arild Burud (MET): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Introduction%20to%20netCDF%20and%20THREDDS%20-%20Arild%20Burud.pdf">A brief introduction to the netCDF format and THREDDS data server</a></p></li>
+<li style="font-size:80%"> <p> 2021, Istvan Czibula (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Computational%20Models%20for%20Nowcasting%20-%20Istvan%20Czibula.pdf">Computational models for nowcasting</a></p></li>
+<li style="font-size:80%"> <p> 2021, Andrei Mihai (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf">Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region</a></p></li>
+<li style="font-size:80%"> <p> 2021, Vlad Ionescu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf">Deep neural network models for nowcasting using satellite data</a></p></li>
+<li style="font-size:80%"> <p> 2021, George Ciubotariu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Enhance%20performance%20of%20image%20classification%20-%20George%20Cuibotariu.pdf">Enhancing the performance of indoor-outdoor image classifications using features extracted from depth-maps</a></p></li>
+<li style="font-size:80%"> <p> 2021, Alexandru-Marian Adăscăliței (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Review%20of%20Grayscale%20Photo%20Colorization%20-%20Alexandru%20Marian%20Adascalitei.pdf">Review and analysis of grayscale photography colorization using CNNs</a></p></li>
+<li style="font-size:80%"> <p> 2021, Maria-Mădălina Mircea (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20Approach%20for%20Data%20Protection%20in%20VR%20-%20Mircea%20Maria-Madalina.pdf">A machine learning approach for data protection in VR therapy applications</a></p></li>
+<li style="font-size:80%"> <p> 2021, Andrei Bratu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/%20Augmenting%20time%20series%20datasets%20for%20algorithmic%20trading%20-%20Andrei%20Bratu.pdf">Augmenting time series datasets via latent space sampling with applications in algorithmic trading</a></p></li>
+<li style="font-size:80%"> <p>2021, Iulia-Monica Szuhai (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf">DNA classification using supervised deep learning</a></p></li>
+<li style="font-size:80%"> <p>2021, Sorin Burcea (ANM): <a href="https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf">Proiect WeaMyL</a></p></li>
 </ul>
 
 ## Video
 <ul>
-<li style="font-size:80%"> <p>2021, Eugen Mihuleț (NMA): <a  href="https://www.youtube.com/watch?v=_Jxk9NMJMZ4">Technology in weather forecasting</a>
-<li style="font-size:80%"> <p> 2021, Sorin Burcea (NMA): <a  href="https://www.youtube.com/watch?v=9XpdoY2vG98">Weather radars - basic principles and application in nowcasting in Romania</a>
-<li style="font-size:80%"> <p> 2021, Thomas Nipen (MET): <a  href="https://www.youtube.com/watch?v=0iIty6GnlX8">Nowcasting on Yr - opportunities and challenges</a>
-<li style="font-size:80%"> <p> 2021, Arild Burud (MET): <a  href="https://www.youtube.com/watch?v=b2MfdSa4GYM">A brief introduction to the netCDF format and THREDDS data server</a>
-<li style="font-size:80%"> <p> 2021, Istvan Czibula (UBB): <a  href="https://www.youtube.com/watch?v=gYIW8cRpihQ">Computational models for nowcasting</a>
-<li style="font-size:80%"> <p> 2021, Andrei Mihai (UBB): <a  href="https://www.youtube.com/watch?v=upL4vKHCl4c">Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region</a>
-<li style="font-size:80%"> <p>2021, Vlad Ionescu (UBB): <a  href="https://www.youtube.com/watch?v=q7M-GBLNEpE">Deep neural network models for nowcasting using satellite data</a>
-<li style="font-size:80%"> <p> 2021, Alexandra Albu (UBB): <a  href="https://www.youtube.com/watch?v=T_QkFAwGyXs">Deep learning models for composite reflectivity prediction</a>
-<li style="font-size:80%"> <p> 2021, George Ciubotariu (UBB): <a  href="https://www.youtube.com/watch?v=pTqlERdTMKE">Enhancing the performance of indoor-outdoor image classifications using depth-map features</a>
-<li style="font-size:80%"> <p>2021, Alexandru-Marian Adăscăliței (UBB): <a  href="https://www.youtube.com/watch?v=a-_vIs1zoBc">Review and analysis of grayscale photography colorization using CNNs</a>
-<li style="font-size:80%"> <p> 2021, Maria-Mădălina Mircea (UBB): <a  href="https://www.youtube.com/watch?v=1SEGzw46-So">A machine learning approach for data protection in VR therapy applications</a>
-<li style="font-size:80%"> <p> 2021, Andrei Bratu (UBB): <a  href="https://www.youtube.com/watch?v=im3ChDq1P6o">Training data augmentation for RL based trading algorithms using adversarial techniques</a>
-<li style="font-size:80%"> <p> 2021, Iulia-Monica Szuhai (UBB): <a  href="https://www.youtube.com/watch?v=otT68PnfWaU">DNA classification using supervised deep learning</a>
+<li style="font-size:80%"> <p>2021, Eugen Mihuleț (NMA): <a  href="https://www.youtube.com/watch?v=_Jxk9NMJMZ4">Technology in weather forecasting</a></p></li>
+<li style="font-size:80%"> <p> 2021, Sorin Burcea (NMA): <a  href="https://www.youtube.com/watch?v=9XpdoY2vG98">Weather radars - basic principles and application in nowcasting in Romania</a></p></li>
+<li style="font-size:80%"> <p> 2021, Thomas Nipen (MET): <a  href="https://www.youtube.com/watch?v=0iIty6GnlX8">Nowcasting on Yr - opportunities and challenges</a></p></li>
+<li style="font-size:80%"> <p> 2021, Arild Burud (MET): <a  href="https://www.youtube.com/watch?v=b2MfdSa4GYM">A brief introduction to the netCDF format and THREDDS data server</a></p></li>
+<li style="font-size:80%"> <p> 2021, Istvan Czibula (UBB): <a  href="https://www.youtube.com/watch?v=gYIW8cRpihQ">Computational models for nowcasting</a></p></li>
+<li style="font-size:80%"> <p> 2021, Andrei Mihai (UBB): <a  href="https://www.youtube.com/watch?v=upL4vKHCl4c">Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region</a></p></li>
+<li style="font-size:80%"> <p>2021, Vlad Ionescu (UBB): <a  href="https://www.youtube.com/watch?v=q7M-GBLNEpE">Deep neural network models for nowcasting using satellite data</a></p></li>
+<li style="font-size:80%"> <p> 2021, Alexandra Albu (UBB): <a  href="https://www.youtube.com/watch?v=T_QkFAwGyXs">Deep learning models for composite reflectivity prediction</a></p></li>
+<li style="font-size:80%"> <p> 2021, George Ciubotariu (UBB): <a  href="https://www.youtube.com/watch?v=pTqlERdTMKE">Enhancing the performance of indoor-outdoor image classifications using depth-map features</a></p></li>
+<li style="font-size:80%"> <p>2021, Alexandru-Marian Adăscăliței (UBB): <a  href="https://www.youtube.com/watch?v=a-_vIs1zoBc">Review and analysis of grayscale photography colorization using CNNs</a></p></li>
+<li style="font-size:80%"> <p> 2021, Maria-Mădălina Mircea (UBB): <a  href="https://www.youtube.com/watch?v=1SEGzw46-So">A machine learning approach for data protection in VR therapy applications</a></p></li>
+<li style="font-size:80%"> <p> 2021, Andrei Bratu (UBB): <a  href="https://www.youtube.com/watch?v=im3ChDq1P6o">Training data augmentation for RL based trading algorithms using adversarial techniques</a></p></li>
+<li style="font-size:80%"> <p> 2021, Iulia-Monica Szuhai (UBB): <a  href="https://www.youtube.com/watch?v=otT68PnfWaU">DNA classification using supervised deep learning</a></p></li>
 
 
 </ul>
@@ -82,14 +82,14 @@ O prezentare generală a rezultatelor proiectului.
 ##  Comunicate de presă, Testimoniale
 <ul>
 
-<li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/rector.pdf">Discursul rectorului la ceremonia de deschidere, atelierul de lucru WeADL, 2021</a>
+<li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/rector.pdf">Discursul rectorului la ceremonia de deschidere, atelierul de lucru WeADL, 2021</a></p></li>
 
-<li style="font-size:80%"> <p> <a  href="https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf">Comunicat de presă, ANM, 01.2021</a>
+<li style="font-size:80%"> <p> <a  href="https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf">Comunicat de presă, ANM, 01.2021</a></p></li>
 
-<li style="font-size:80%"> <p> <a  href="http://www.cs.ubbcluj.ro/weadl-2021/">Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021</a>
+<li style="font-size:80%"> <p> <a  href="http://www.cs.ubbcluj.ro/weadl-2021/">Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021</a></p></li>
 
 
-<li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/">Comunicat de presă, UBB, 27.05.2021</a>
+<li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/">Comunicat de presă, UBB, 27.05.2021</a></p></li>
 
 </ul>
 
