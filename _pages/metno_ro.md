@@ -46,7 +46,7 @@ Echipa de cercetare MET Norvegia este formată din:
  <tr>
  <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/abdelkader_metno.jpg" /> </center> </td>
  <td align="justify">
-  Dr. Abdelkader Mezghani om de știință senior în grupul de Analiză și Modelare a Climatului, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes cuprind redimensionarea informațiilor legate de vreme și climat, analiză statistică, programare și dezvoltare web, modele pentru temperatură și precipitații, Big data, rețele neuronale.
+  Dr. Abdelkader Mezghani este om de știință senior în grupul de Analiză și Modelare a Climatului, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes cuprind redimensionarea informațiilor legate de vreme și climat, analiză statistică, programare și dezvoltare web, modele pentru temperatură și precipitații, Big data, rețele neuronale.
   <a href="https://orcid.org/0000-0003-2825-5884">ORCID</a>; <a href="https://www.linkedin.com/in/abdelkader-mezghani-8a3aa127/?originalSubdomain=no">LinkedIn</a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en">Google Scholars</a>
   </td></tr>
   </table>
