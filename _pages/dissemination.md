@@ -12,11 +12,17 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p> Czibula, G., Andrei, M., Mihuleț, E., <a href="https://weamyl.met.no/assets/files/applsci-11-00125.pdf">NowDeepN: An ensemble of deep learning models for weather nowcasting based on radar products' values prediction</a>, Applied Sciences, 2021, 11(1), 125; https://doi.org/10.3390/app11010125. (2020 IF=2.679, Q2).</p></li>
 
 <li style="font-size:80%"> <p> Czibula G., Mihai, A., Albu, A.-I., Czibula, I.G., Burcea, S. Mezghani, A., <a href="https://www.mdpi.com/2227-7390/9/14/1653">AutoNowP: An approach using deep autoencoders for precipitation nowcasting based on  weather radar reflectivity prediction</a>, Mathematics, 9(14):1653. https://doi.org/10.3390/math9141653 Special Issue on Computational Optimizations for Machine Learning. 2021 (2020 IF=2.258, Q1).</p></li>
-<li style="font-size:80%"> <p> Vlad-Sebastian Ionescu, Gabriela Czibula, Eugen Mihuleț, DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes, 25thInternational Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2021), accepted for publication (B-ranked according to CORE classification, http://portal.core.edu.au/conf-ranks/, indexed WoS).</p></li>
-<li style="font-size:80%"> <p> Albu, Alexandra-Ioana: Towards learning transferable embeddings for protein conformations using Variational Autoencoders, 25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2021), Procedia Computer Science, accepted for publication (B-ranked according to CORE classification, http://portal.core.edu.au/conf-ranks/, indexed WoS).</p></li>
+
+<li style="font-size:80%"> <p> Vlad-Sebastian Ionescu, Gabriela Czibula, Eugen Mihuleț, <a href="https://www.sciencedirect.com/science/article/pii/S1877050921015519">DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes</a>, 25thInternational Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2021), Procedia Computer Science Volume 192, 2021, Pages 622-631, (B-ranked according to CORE classification, indexed WoS)</p></li>
+
+<li style="font-size:80%"> <p> Albu, Alexandra-Ioana: <a href="https://www.sciencedirect.com/science/article/pii/S1877050921014897?via%3Dihub">Towards learning transferable embeddings for protein conformations using Variational Autoencoders</a>, 25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2021), Procedia Computer Science Volume 192, 2021, Pages 10-19 (B-ranked according to CORE classification, indexed WoS)</p></li>
+
 <li style="font-size:80%"> <p> Gabriela Czibula, Alexandra Albu, Maria Iuliana Bocicor, Camelia Chira, AutoPPI: An ensemble of deep autoencoders for protein-protein interaction prediction, Entropy, Special issue on Computational Methods and Algorithms for Bioinformatics, 23(6), 643, 2021, https://www.mdpi.com/1099-4300/23/6/643 (2020 IF=2.524, Q2).</p></li>
+
 <li style="font-size:80%"> <p> Bratu A., Czibula G., DAuGAN: An approach for augmenting time series imbalanced datasets via latent space sampling using adversarial techniques, Scientific Programming, 2021, accepted for publication (2020 IF=1.025, Q4).</p></li>
+
 <li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, 2021, accepted for publication, in press,  (2020 IF=6.954, Q1)</p></li>
+
 </ol>
 
 ### Publicații anterioare
