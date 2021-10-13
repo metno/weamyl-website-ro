@@ -105,7 +105,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> 2021, workshop WeADL, Iulia-Monica Szuhai (UBB): <a href="https://www.youtube.com/watch?v=otT68PnfWaU">DNA classification using supervised deep learning</a></p></li>
 
-<li style="font-size:80%"> <p> 2021, conferința KES, Vlad-Sebastian Ionescu (UBB), Gabriela Czibula (UBB), Eugen Mihuleț (ANM): <a href="/assets/video/kes2021.mp4">DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes </a></p></li>
+<li style="font-size:80%"> <p> 2021, conferința KES, Vlad-Sebastian Ionescu (UBB), Gabriela Czibula (UBB), Eugen Mihuleț (ANM): <a href="https://weamyl.met.no/assets/videos/kes2021.mp4">DeePSat: A deep learning model for prediction of satellite images for nowcasting purposes </a></p></li>
 
 </ul>
 
