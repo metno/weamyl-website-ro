@@ -77,7 +77,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p>2021, workshop intern ANM, Sorin Burcea (ANM): <a href="https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf">Proiect WeaMyL</a></p></li>
 
-<li style="font-size:80%"> <p>2021, Cluj IT Days, <a href="https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf">Andrei Mihai (UBB)</a>: Enhancing the performance of weather nowcasting by use of machine learning techniques</p></li>
+<li style="font-size:80%"> <p>2021, Cluj IT Days, <a href="https://www.itdays.ro/speaker/andrei-mihai">Andrei Mihai (UBB)</a>: Enhancing the performance of weather nowcasting by use of machine learning techniques</p></li>
 </ul>
 
 ## Video
