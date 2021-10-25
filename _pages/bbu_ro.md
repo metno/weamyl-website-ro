@@ -7,7 +7,7 @@ title: "Despre Universitatea Babeș-Bolyai - Echipa MLyRE "
 
 Membrii grupului MLyRE care participă în proiectul WeaMyL:
 
-* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Dr. Czibula Gabriela </a>
+* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Dr. Czibula Gabriela </a> - cercetător principal
 <table>
 <tr>
 <td width="25%"> <center><img src="https://weamyl.met.no/assets/images/bio/circle_GabrielaCzibula.png" />  </center> </td>
@@ -101,6 +101,15 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 <tr>
 <td align="justify">Mariana Maier este doctorand la Facultatea de Mathematică și Informatică a Universității Babeș-Bolyai Cluj-Napoca, România. Domeniile sale de cercetare cuprind Inteligența computațională, Învățarea automată și Data mining în educație.<br>
 <a href="https://scholar.google.com/citations?user=1MQDkl4AAAAJ&hl=ro"> Google Scholar</a>
+</td>
+</tr>
+</table>
+
+* Chirtoș Delia, manager financiar
+<table>
+<tr>
+<td align="justify"><br>
+<a href=""> </a>
 </td>
 </tr>
 </table>

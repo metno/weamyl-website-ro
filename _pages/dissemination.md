@@ -76,6 +76,8 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p>2021, workshop WeADL, Iulia-Monica Szuhai (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNA%20classification%20using%20DL%20-%20Szuhai%20Iulia-Monica.pdf">DNA classification using supervised deep learning</a></p></li>
 
 <li style="font-size:80%"> <p>2021, workshop intern ANM, Sorin Burcea (ANM): <a href="https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf">Proiect WeaMyL</a></p></li>
+
+<li style="font-size:80%"> <p>2021, Cluj IT Days, <a href="https://weamyl.met.no/assets/files/prezentare_interna_Meteo.pdf">Andrei Mihai (UBB)</a>: Enhancing the performance of weather nowcasting by use of machine learning techniques</p></li>
 </ul>
 
 ## Video
