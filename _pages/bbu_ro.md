@@ -108,8 +108,8 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 * Chirtoș Delia, manager financiar
 <table>
 <tr>
-<td align="justify"><br>
-<a href=""> </a>
+<td align="justify">Delia Chirtoș lucrează ca economist la Universitatea Babeș-Bolyai Cluj-Napoca, România, din anul 2013. A obținut licența în Bănci și burse de valori în anul 1997 și masteratul în Administrarea afacerii în anul 2009. Din 2006, este membru în Corpul Experţilor Contabili şi Contabililor Autorizaţi din România (CECCAR). În calitate de economist la Universitatea Babeș-Bolyai, desfășoară activități specifice contabilității, cum ar fi note contabile, balanțe de verificare, execuție bugetară și este responsabil financiar pentru proiecte cu finanțare europeană. <br>
+<a href="https://www.linkedin.com/in/delia-chirtos-60671b224/">LinkedIn </a>
 </td>
 </tr>
 </table>
