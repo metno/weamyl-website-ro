@@ -67,6 +67,15 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </tr>
 </table>
 * Lect. Dr. Mircea Ioan-Gabriel
+<table>
+<tr>
+<td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/gabi_mircea.png"/> </center></td>
+<td align="justify">Sunt lector la Universitatea Babeș-Bolyai din Cluj-Napoca, România. Alimentat de visul meu din copilărie de a deveni Indiana Jones, am reușit să combin atracția mea inițială pentru istorie și arheologie cu o pasiune recent descoperită pentru învățarea automată și învățarea profundă, care a izvorât din dragostea mea anterioară pentru matematică și informatică, concretizată într-o teză de doctorat, intitulată „Învățare automată aplicată în bioarheologie”. Interesele mele includ aplicații interesante ale învățării automate și tehnicilor de învățare profundă în diferite proiecte științifice interdisciplinare. 
+<br>
+<a href="https://scholar.google.ro/citations?hl=ro&user=P09Bqs8AAAAJ&view_op=list_works&sortby=pubdate"> Google Scholar</a>
+</td>
+</tr>
+</table>
 * Asist. Mihai Andrei
 <table>
 <tr>
