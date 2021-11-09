@@ -111,10 +111,16 @@ O prezentare generală a rezultatelor proiectului.
 
 </ul>
 
-##  Comunicate de presă, Testimoniale
+## Testimoniale
 <ul>
-
 <li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/rector.pdf">Discursul rectorului la ceremonia de deschidere, workshop WeADL, 2021</a></p></li>
+
+<li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/testimonial_gabi.pdf">Mircea Gabriel (BBU)</a></p></li>
+
+</ul>
+
+##  Comunicate de presă
+<ul>
 
 <li style="font-size:80%"> <p> <a  href="https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf">Comunicat de presă, ANM, 01.2021</a></p></li>
 
@@ -123,6 +129,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/">Comunicat de presă, UBB, 27.05.2021</a></p></li>
 
+<li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/">Comunicat de presă, UBB, 9.11.2021</a></p></li>
 </ul>
 
 ## Rețele sociale
