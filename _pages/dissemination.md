@@ -79,8 +79,9 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p>2021, Cluj IT Days, <a href="https://www.itdays.ro/speaker/andrei-mihai">Andrei Mihai (UBB)</a>: Enhancing the performance of weather nowcasting by use of machine learning techniques</p></li>
 
+<li style="font-size:80%"> <p>10-12 Noiembrie 2021, Sesiunea științifică anuală a Administrației Naționale de Meteorologie, Eugen Mihuleț (ANM): <a href="https://weamyl.met.no/assets/files/prezentare_NowDeepN.pdf">Analiza performanței modelului NowDeepN pentru predicția valorilor produselor radarului meteorologic WSR-98D Bobohalma</a></p></li>
 
-<li style="font-size:80%"> <p>18.01.2022, workshop intern MET, Oslo, Norvegia: Overview of machine learning activities at MET Norway</p></li>
+<li style="font-size:80%"> <p>18 Ianuarie 2022, workshop intern MET, Oslo, Norvegia: Overview of machine learning activities at MET Norway</p></li>
 </ul>
 
 ## Video
