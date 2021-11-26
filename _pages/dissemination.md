@@ -63,6 +63,8 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> 2021, workshop WeADL, Andrei Mihai (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/ML%20for%20Nowcasting%20in%20Transylvania%20-%20Andrei%20Mihai.pdf">Supervised and unsupervised machine learning for nowcasting, applied on radar data from central Transylvania region</a></p></li>
 
+<li style="font-size:80%"> <p> 2021, workshop WeADL, Alexandra Albu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DL%20models%20for%20reflectivity%20-%20Alexandra%20Albu.pdf">Deep learning models for composite reflectivity prediction</a></p></li>
+
 <li style="font-size:80%"> <p> 2021, workshop WeADL, Vlad Ionescu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/DNN%20models%20for%20satellite%20data%20-%20Ionescu%20Vlad.pdf">Deep neural network models for nowcasting using satellite data</a></p></li>
 
 <li style="font-size:80%"> <p> 2021, workshop WeADL, George Ciubotariu (UBB): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Enhance%20performance%20of%20image%20classification%20-%20George%20Cuibotariu.pdf">Enhancing the performance of indoor-outdoor image classifications using features extracted from depth-maps</a></p></li>
