@@ -124,7 +124,9 @@ O prezentare generală a rezultatelor proiectului.
 <ul>
 <li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/rector.pdf">Discursul rectorului la ceremonia de deschidere, workshop WeADL, 2021</a></p></li>
 
-<li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/testimonial_gabi.pdf">Mircea Gabriel (BBU)</a></p></li>
+<li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/testimonial_gabi.pdf">Gabriel Mircea (UBB)</a></p></li>
+
+<li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/testimonial_anm.pdf">Cristian Grecu (ANM)</a></p></li>
 
 </ul>
 
