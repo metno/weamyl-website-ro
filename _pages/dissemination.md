@@ -140,7 +140,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/">Comunicat de presă, UBB, 27.05.2021</a></p></li>
 
-<li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/">Comunicat de presă, UBB, 9.11.2021</a></p></li>
+<li style="font-size:80%"> <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/">Comunicat de presă, UBB, 9.11.2021</a></p></li>
 </ul>
 
 ## Rețele sociale
@@ -149,6 +149,6 @@ O prezentare generală a rezultatelor proiectului.
 
 <ul>
 
-<li style="font-size:80%"> <p> <a  href="assets/files/raport21.pdf">Raportare anuală 2020-2021</a></p></li>
+<li style="font-size:80%"> <p> <a href="https://weamyl.met.no/assets/files/raport21.pdf">Raportare anuală 2020-2021</a></p></li>
 
 </ul>
