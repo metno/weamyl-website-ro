@@ -149,6 +149,6 @@ O prezentare generală a rezultatelor proiectului.
 
 <ul>
 
-<li style="font-size:80%"> <p> <a href="https://weamyl.met.no/assets/files/raport21.pdf">Raportare anuală 2020-2021</a></p></li>
+<li style="font-size:80%"> <p> <a href="https://weamyl.met.no/assets/files/raport21.pdf">Rezumatul raportului tehnic 2020-2021</a></p></li>
 
 </ul>
