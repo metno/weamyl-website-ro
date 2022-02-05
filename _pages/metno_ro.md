@@ -52,7 +52,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no//assets/images/bio/christoffer_MET_Norway.png"/> </center></td>
   <td align="justify">
- Christoffer Artturi Elo is a dezvoltator științific. Principalele sale domenii de interes: rularea sistemelor operaționale și dezvoltarea rutinelor de prognoză pe termen scurt. Are experiență bogată în datele radar<br>
+ Christoffer Artturi Elo este dezvoltator științific. Principalele sale domenii de interes: rularea sistemelor operaționale și dezvoltarea rutinelor de prognoză pe termen scurt. Are experiență bogată în datele radar.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -68,46 +68,46 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
  - Arild Burud, inginer senior în IT
  <table>
  <tr>
- <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
+ <td width="25%"><center> <img src="https://weamyl.met.no/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
  <td align="justify">
   Arild Burud lucrează ca inginer senior în IT la Institutul Meteorologic Norvegian, Oslo, Norvegia. Este licențiat în inginerie structurală și IT. Principalul său domeniu de interes este îmbinarea cercetării cu IT-ul, în scopul de a face cercetarea deschisă și accesibilă.
   </td></tr>
   </table>
- - Anita Verpe Dyrrdal, om de știință și director al Centrului Norvegian de Servicii Climatice
+ - Anita Verpe Dyrrdal, cercetător și director al Centrului Norvegian de Servicii Climatice
  <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
   <td align="justify">
- Dr. Anita Verpe Dyrrdal om de știință senior în grupul de modelare și analiză climatică și este directorul Centrului Norvegian de Servicii Climatice. Principalele sale domenii de interes sunt Metodologiile de estimare a precipitațiilor extreme pentru planificarea și dimensionarea infrastructurilor  <br>
+ Dr. Anita Verpe Dyrrdal este cercetător senior în grupul de modelare și analiză climatică și directorul Centrului Norvegian de Servicii Climatice. Principalele sale domenii de interes sunt Metodologiile de estimare a precipitațiilor extreme pentru planificarea și dimensionarea infrastructurilor.  <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
- - Abdelkader Mezghani, om de știință senior
+ - Abdelkader Mezghani, cercetător senior
  <table>
  <tr>
  <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/abdelkader_metno.jpg" /> </center> </td>
  <td align="justify">
-  Dr. Abdelkader Mezghani este om de știință senior în grupul de Analiză și Modelare a Climatului, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes cuprind redimensionarea informațiilor legate de vreme și climat, analiză statistică, programare și dezvoltare web, modele pentru temperatură și precipitații, Big data, rețele neuronale.
+  Dr. Abdelkader Mezghani este cercetător senior în grupul de Analiză și Modelare a Climatului, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes cuprind redimensionarea informațiilor legate de vreme și climat, analiză statistică, programare și dezvoltare web, modele pentru temperatură și precipitații, Big data, rețele neuronale.
   <a href="https://orcid.org/0000-0003-2825-5884">ORCID</a>; <a href="https://www.linkedin.com/in/abdelkader-mezghani-8a3aa127/?originalSubdomain=no">LinkedIn</a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en">Google Scholars</a>
   </td></tr>
   </table>
- - Kajsa Maria Parding, om de știință junior
+ - Kajsa Maria Parding, cercetător junior
  <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
   <td align="justify">
- Dr. Kajsa Maria Parding este om de știință junior în grupul de modelare și analiză climatică, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes includ reducerea la scară a informațiilor despre vreme și climă, analize statistice, modelare a temperaturii și precipitațiilor și analize ale traseului furtunilor.<br>
+ Dr. Kajsa Maria Parding este cercetător junior în grupul de modelare și analiză climatică, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes includ reducerea la scară a informațiilor despre vreme și climă, analize statistice, modelare a temperaturii și precipitațiilor și analize ale traseului furtunilor.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
- - Helena Birkeland Erlandsen, om de știință junior
+ - Helena Birkeland Erlandsen, cercetător junior
  <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no//assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify">
- Dr. Helena Birkeland Erlandsen este om de știință junior în grupul de de modelare și analiză climatică, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes includ reducerea hibridă a temperaturii și precipitațiilor. <br>
+ Dr. Helena Birkeland Erlandsen este cercetător junior în grupul de de modelare și analiză climatică, la Institutul Meteorologic Norvegian. Principalele sale domenii de interes includ reducerea hibridă a temperaturii și precipitațiilor. <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
