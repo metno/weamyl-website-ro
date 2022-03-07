@@ -21,10 +21,10 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> Bratu A., Czibula G., <a href=" https://www.hindawi.com/journals/sp/2021/7877590/">DAuGAN: An approach for augmenting time series imbalanced datasets via latent space sampling using adversarial techniques</a>, Scientific Programming, Special Issue on Theory, Algorithms, and Applications for the Multiclass Classification Problem, Vol. 2021, Article ID 7877590, (2020 IF=1.025, Q4).</p></li>
 
-<li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, Volume 187, ID 11594 January 2022,   (2020 IF=6.954, Q1).</p></li>
+<li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, Volume 187, ID 11594 January 2022, (2020 IF=6.954, Q1).</p></li>
 
 <li style="font-size:80%"><p> Cristian-Lucian Grecu,
-  <a href="">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp 32-36 </p></li>
+  <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp. 32-36 </p></li>
 
 </ol>
 
