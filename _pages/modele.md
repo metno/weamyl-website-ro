@@ -4,7 +4,7 @@ title: "Modele de nowcasting"
 ---
 ## NowCastX versiune 1.0.0
 
-<p class="small">NowCastX versiune 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Xception-based model</a>
+<p class="small">NowCastX versiune 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Model bazat pe arhitectura Xception</a>
 antrenat pe un set de date conținând 45 de zile cu date radar <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. Modelul a fost antrenat pe o regiune de aproximativ 300km x 300km din jurul orașului Oslo, pentru predicția reflectivității compozite, folosind datele înregistrate pentru momentul actual. Ziua utilizată pentru ilustrarea predicțiilor nu a fost folosită la antrenare.
 </p>
 <video width="100%" controls>
