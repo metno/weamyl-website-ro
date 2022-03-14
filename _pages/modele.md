@@ -8,11 +8,11 @@ title: "Modele de nowcasting"
 antrenat pe un set de date conținând 45 de zile cu date radar <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. Modelul a fost antrenat pe o regiune de aproximativ 300km x 300km din jurul orașului Oslo, pentru predicția reflectivității compozite, folosind datele înregistrate pentru momentul actual. Ziua utilizată pentru ilustrarea predicțiilor nu a fost folosită la antrenare.
 </p>
 <video width="100%" controls>
-  <source src="/assets/videos/xnow-4steps-5min-publ.mp4" type="video/mp4">
+  <source src="https://weamyl.met.no/assets/videos/xnow-4steps-5min-publ.mp4" type="video/mp4">
 </video>
 <p class="small">NowCastX 5 min - bazat pe datele radar disponibile face predicție pentru următoarele 5 minute. </p>
 <video width="100%" controls>
-  <source src="/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
+  <source src="https://weamyl.met.no/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
 </video>
 <p class="small">NowCastX 15 min - bazat pe datele radar disponibile face predicție pentru următoarele 15 minute. </p>
 
