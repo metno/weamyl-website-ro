@@ -24,13 +24,13 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, Volume 187, ID 11594 January 2022, (2020 IF=6.954, Q1).</p></li>
 
 <li style="font-size:80%"><p> Cristian-Lucian Grecu,
-  <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp. 32-36 </p></li>
+  <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp. 32-36. <a href="/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
 </ol>
 
 ### Publicații anterioare
 <ol>
-<li style="font-size:80%"> <p> Czibula, G., Mihai, A., Mihuleț, E., Teodorovici, D., <a href="https://weamyl.met.no/assets/files/KES2019.pdf">Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes</a>, 23nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019)  pp. 48-57</p></li>
+<li style="font-size:80%"> <p> Czibula, G., Mihai, A., Mihuleț, E., Teodorovici, D., <a href="https://weamyl.met.no/assets/files/KES2019.pdf">Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes</a>, 23nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019) pp. 48-57</p></li>
 
 <li style="font-size:80%"> <p> Mihai, A., Czibula, G., Mihuleț, E., <a href="https://ieeexplore.ieee.org/document/8959777">Analyzing Meteorological Data Using Unsupervised Learning Techniques</a>, ICCP 2019: Proceedings of the IEEE International Conference on Intelligent Computer Communication and Processing, 2019, Cluj-Napoca, Romania, IEEE Computer Society Press, pp. 529 – 536</p></li>
 
