@@ -87,6 +87,8 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p>10-12 Noiembrie 2021, Sesiunea științifică anuală a Administrației Naționale de Meteorologie, Eugen Mihuleț (ANM): <a href="https://weamyl.met.no/assets/files/prezentare_NowDeepN.pdf">Analiza performanței modelului NowDeepN pentru predicția valorilor produselor radarului meteorologic WSR-98D Bobohalma</a></p></li>
 
 <li style="font-size:80%"> <p>18 Ianuarie 2022, workshop intern MET, Oslo, Norvegia: Overview of machine learning activities at MET Norway</p></li>
+
+<li style="font-size:80%"> <p>18 Martie 2022, conferința internațională <a href="http://aerapa.conference.ubbcluj.ro/wordpress/">Air and Water – Components of the Environment</a>, Eugen Mihuleț (ANM), <a href="https://weamyl.met.no/assets/files/Air_Eugen.pdf">Analysis of Applying a Deep Learning Model for Prediction of WSR-98D Weather Radar Product Values</a></p></li>
 </ul>
 
 ## Video
