@@ -26,6 +26,9 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"><p> Cristian-Lucian Grecu,
   <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp. 32-36. <a href="https://metno.github.io/weamyl-website-ro/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
+<li style="font-size:80%"><p> Cristian-Lucian Grecu,
+    <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117,  March 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian2.pdf">Abstract</a> </p></li>
+
 </ol>
 
 ### Publicații anterioare
