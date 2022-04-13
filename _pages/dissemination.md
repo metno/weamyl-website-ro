@@ -27,7 +27,7 @@ O prezentare generală a rezultatelor proiectului.
   <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp. 32-36. <a href="https://metno.github.io/weamyl-website-ro/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
 <li style="font-size:80%"><p> Cristian-Lucian Grecu,
-    <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117,  March 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian2.pdf">Abstract</a> </p></li>
+    <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117, March 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
 </ol>
 
@@ -51,7 +51,7 @@ O prezentare generală a rezultatelor proiectului.
 
 ## Seminarii și workshop-uri
 <ul>
-<li style="font-size:80%"> <p> 24 mai 2021, <a href="http://www.cs.ubbcluj.ro/weadl/">Primul workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
+<li style="font-size:80%"> <p> 24 mai 2021, <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/">Primul workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
 
 </ul>
 
