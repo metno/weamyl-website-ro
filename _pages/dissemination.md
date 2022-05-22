@@ -28,7 +28,10 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"><p> Cristian-Lucian Grecu,
     <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117, March 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
+
 <li style="font-size:80%"><p> Udo Reckerth, <a href="https://www.todaysoftmag.ro/article/3573/introducere-in-meteorologia-radar">Introducere în Meteorologia RADAR</a>, TODAY SOFTWARE MAGAZINE, Nr. 118, April 2022, pp. 28-31. <a href="https://weamyl.met.no/assets/files/abstractUdo_ro.pdf">Abstract</a> </p></li>
+
+<li style="font-size:80%"> <p> Albu, Alexandra-Ioana, Protein-Protein Interaction Prediction using Supervised Autoencoders, 26th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2022), accepted for publication (B-ranked according to CORE classification, indexed WoS)</p> </li>
 
 </ol>
 
