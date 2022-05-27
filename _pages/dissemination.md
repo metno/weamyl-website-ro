@@ -129,7 +129,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p>2021, Cluj IT Days, Andrei Mihai (UBB): <a href="https://vimeo.com/647889204">Enhancing the performance of weather nowcasting by use of machine learning techniques</a></p></li>
 
-
+<li style="font-size:80%"> <p>2022, Abdelkader Mezghani (MET): <a href="https://weamyl.met.no/assets/videos/weamyl_video_version0.webm"> WeaMyL. Demo on how to access and visualise the output from the machine learning platform</a></p></li>
 </ul>
 
 ## Testimoniale
