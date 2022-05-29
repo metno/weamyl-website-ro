@@ -24,15 +24,16 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, Volume 187, ID 11594 January 2022, (2020 IF=6.954, Q1).</p></li>
 
 <li style="font-size:80%"><p> Cristian-Lucian Grecu,
-  <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, February 2022, pp. 32-36. <a href="https://metno.github.io/weamyl-website-ro/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
+  <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, Februarie 2022, pp. 32-36. <a href="https://metno.github.io/weamyl-website-ro/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
 <li style="font-size:80%"><p> Cristian-Lucian Grecu,
-    <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117, March 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
+    <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117, Martie 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
-<li style="font-size:80%"><p> Udo Reckerth, <a href="https://www.todaysoftmag.ro/article/3573/introducere-in-meteorologia-radar">Introducere în Meteorologia RADAR</a>, TODAY SOFTWARE MAGAZINE, Nr. 118, April 2022, pp. 28-31. <a href="https://weamyl.met.no/assets/files/abstractUdo_ro.pdf">Abstract</a> </p></li>
+<li style="font-size:80%"><p> Udo Reckerth, <a href="https://www.todaysoftmag.ro/article/3573/introducere-in-meteorologia-radar">Introducere în Meteorologia RADAR</a>, TODAY SOFTWARE MAGAZINE, Nr. 118, Aprilie 2022, pp. 28-31. <a href="https://weamyl.met.no/assets/files/abstractUdo_ro.pdf">Abstract</a> </p></li>
 
 <li style="font-size:80%"> <p> Albu, Alexandra-Ioana, Protein-Protein Interaction Prediction using Supervised Autoencoders, 26th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2022), accepted for publication (B-ranked according to CORE classification, indexed WoS)</p> </li>
 
+<li style="font-size:80%"><p> Meda Andrei, <a href="https://www.todaysoftmag.ro/article/3591/prognoza-vremii-si-modelele-numerice">Prognoza Vremii și Modelele Numerice</a>, TODAY SOFTWARE MAGAZINE, Nr. 119, Mai 2022, pp. 27-30. <a href="https://weamyl.met.no/assets/files/abstractMeda_ro.pdf">Abstract</a> </p></li>
 </ol>
 
 ### Publicații anterioare
@@ -156,6 +157,9 @@ O prezentare generală a rezultatelor proiectului.
 </ul>
 
 ## Rețele sociale
+
+<a href="https://twitter.com/WeaMyLProject?s=20&t=lIubQgFakRfeT2z29WcDQw"><img src="https://weamyl.met.no/assets/images/Twitter-logo.png" width="30" height="30"></a>
+<a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="https://weamyl.met.no/assets/images/youtube.jpg" width="40" height="40"></a> 
 
 ## Raportare anuală
 
