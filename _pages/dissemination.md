@@ -23,11 +23,9 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> Nistor, S.C., Czibula, G., <a href="https://www.sciencedirect.com/science/article/pii/S0957417421012987">IntelliSwAS: Optimizing Deep Neural Network Architectures using a Particle Swarm-based Approach</a>, Expert systems with Applications, Volume 187, ID 11594 January 2022, (2020 IF=6.954, Q1).</p></li>
 
-<li style="font-size:80%"><p> Cristian-Lucian Grecu,
-  <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, Februarie 2022, pp. 32-36. <a href="https://metno.github.io/weamyl-website-ro/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
+<li style="font-size:80%"><p> Cristian-Lucian Grecu, <a href="https://www.todaysoftmag.ro/article/3529/satelitii-meteorologici">Sateliții Meteorologici</a>, TODAY SOFTWARE MAGAZINE, Nr. 116, Februarie 2022, pp. 32-36. <a href="https://metno.github.io/weamyl-website-ro/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
-<li style="font-size:80%"><p> Cristian-Lucian Grecu,
-    <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117, Martie 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
+<li style="font-size:80%"><p> Cristian-Lucian Grecu, <a href="https://www.todaysoftmag.ro/article/3555/satelitii-meteorologici-ii-produsele-satelitare-rgb">Sateliții Meteorologici (II) - Produsele satelitare RGB</a>, TODAY SOFTWARE MAGAZINE, Nr. 117, Martie 2022, pp. 18-21. <a href="https://weamyl.met.no/assets/files/abstractCristian.pdf">Abstract</a> </p></li>
 
 <li style="font-size:80%"><p> Udo Reckerth, <a href="https://www.todaysoftmag.ro/article/3573/introducere-in-meteorologia-radar">Introducere în Meteorologia RADAR</a>, TODAY SOFTWARE MAGAZINE, Nr. 118, Aprilie 2022, pp. 28-31. <a href="https://weamyl.met.no/assets/files/abstractUdo_ro.pdf">Abstract</a> </p></li>
 
@@ -58,6 +56,7 @@ O prezentare generală a rezultatelor proiectului.
 <ul>
 <li style="font-size:80%"> <p> 24 mai 2021, <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/">Primul workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
 
+<li style="font-size:80%"> <p> 3 iunie 2022, <a href="http://www.cs.ubbcluj.ro/weadl/">Al doilea workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
 </ul>
 
 ## Prezentări
@@ -97,6 +96,31 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p>18 Ianuarie 2022, workshop intern MET, Oslo, Norvegia: Overview of machine learning activities at MET Norway</p></li>
 
 <li style="font-size:80%"> <p>18 Martie 2022, conferința internațională <a href="http://aerapa.conference.ubbcluj.ro/wordpress/">Air and Water – Components of the Environment</a>, Eugen Mihuleț (ANM), <a href="https://weamyl.met.no/assets/files/Air_Eugen.pdf">Analysis of Applying a Deep Learning Model for Prediction of WSR-98D Weather Radar Product Values</a></p></li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Sorin Cheval (ANM) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Sorin%20Cheval%20-%20Country%20scale%20assessment%20of%20the%20heat%20hazard-risk.pdf">A country scale assessment of the heat hazard-risk in urban areas</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihaela Caian (ANM) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Mihaela%20Caian%20-%20Variability%20of%20precipitation%20in%20Romania.pdf">Variability of precipitation in Romania: recent trends and projected changes in climate scenarios</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Magnus Haukeland (MET) <a href="">How nowcasting is used in today’s danger warnings</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Christoffer Artturi Elo (MET) <a href="">Processing and filtering of radar end-product composite reflectivity</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Mihai Andrei (BBU) <a href="">Using convolutional autoencoders for precipitation nowcasting based on radar data</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Gabriel-Ioan Mircea (UBB) <a href="">ConvLSTM architectures for meteorological nowcasting based on satellite imagery</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Abdelkader Mezghani (MET) <a href="">How to use the WeaMyL machine learning forecasting platform</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Arild Burud (MET) <a href="">A brief introduction on the netCDF file format, the OPeNDAP protocol and THREDDS Data server</a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, George Ciubotariu (UBB) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/George%20Ciubotariu%20-%20MBMT-Net.pdf">MBMT-Net: A Multi-Backbone, Multi-Task Deep Convolutional Neural Network </a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Radu Gălan (UBB) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Radu%20Galan%20-%20Generation%20and%20Simulation%20of%20Artificial%20Human%20Societies.pdf">Generation and Simulation of Artificial Human Societies using Anthropologically modelled Learning Agents </a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Raluca Hațegan (UBB) <a href="">Application of Machine Learning algorithms for the botanical origin assessment of honey using isotope and elemental profiles </a> </p> </li>
+
+<li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (UBB) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Alexandra%20Albu%20-%20Protein-Protein%20Interaction%20Prediction.pdf">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
+
 </ul>
 
 ## Video
@@ -141,6 +165,8 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/testimonial_anm.pdf">Cristian Grecu (ANM)</a></p></li>
 
+
+
 </ul>
 
 ##  Comunicate de presă
@@ -148,18 +174,25 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> <a  href="https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf">Comunicat de presă, ANM, 01.2021</a></p></li>
 
-<li style="font-size:80%"> <p> <a  href="http://www.cs.ubbcluj.ro/weadl-2021/">Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021</a></p></li>
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Press release, NEWSUBB, BBU, 20.05.2021 </a></p></li>
 
+<li style="font-size:80%"> <p> <a  href="http://www.cs.ubbcluj.ro/weadl-2021/">Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021</a></p></li>
 
 <li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/">Comunicat de presă, UBB, 27.05.2021</a></p></li>
 
 <li style="font-size:80%"> <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/">Comunicat de presă, UBB, 9.11.2021</a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/a-doua-editie-a-workshopului-in-invatare-profunda-aplicata-weadl-2022/"> Comunicat de presă, Facultatea de Mathematică și Informatică (UBB), 26.05.2022</a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://m.facebook.com/story.php?story_fbid=pfbid0SB716nEHajYwSbMjwKnM2fpx9zeQBaeysHKdTcdVrAwdcUANPQsGVD5eDjhrF7b8l&id=100069013215997"> Comunicat de presă, UEFISCDI, 26.05.2022</a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-a-doua-editie-a-workshopului-weadl-workshop-on-applied-deep-learning/"> Comunicat de presă, NEWSUBB, UBB, 25.05.2022 </a></p></li>
 </ul>
 
 ## Rețele sociale
 
 <a href="https://twitter.com/WeaMyLProject?s=20&t=lIubQgFakRfeT2z29WcDQw"><img src="https://weamyl.met.no/assets/images/Twitter-logo.png" width="30" height="30"></a>
-<a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="https://weamyl.met.no/assets/images/youtube.jpg" width="40" height="40"></a> 
+<a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="https://weamyl.met.no/assets/images/youtube.jpg" width="40" height="40"></a>
 
 ## Raportare anuală
 
