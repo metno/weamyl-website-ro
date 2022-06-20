@@ -174,7 +174,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> <a  href="https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf">Comunicat de presă, ANM, 01.2021</a></p></li>
 
-<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Press release, NEWSUBB, BBU, 20.05.2021 </a></p></li>
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/"> Comunicat de presă, NEWSUBB, UBB, 20.05.2021 </a></p></li>
 
 <li style="font-size:80%"> <p> <a  href="http://www.cs.ubbcluj.ro/weadl-2021/">Comunicat de presă, Facultatea de Matematică și Informatică, 22.05.2021</a></p></li>
 
