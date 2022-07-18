@@ -219,9 +219,12 @@ O prezentare generală a rezultatelor proiectului.
 <!--<a href="https://twitter.com/WeaMyLProject?s=20&t=lIubQgFakRfeT2z29WcDQw"><img src="https://weamyl.met.no/assets/images/Twitter-logo.png" width="30" height="30"></a>
 <a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="https://weamyl.met.no/assets/images/youtube.jpg" width="40" height="40"></a>-->
 <ul>
-<li style="font-size:80%"><p><a href="https://www.facebook.com/105951141283282/posts/pfbid024ATGcYRfFgnbto8YDZ9u72j6oLB1y3RioBBewPfEmD5D1Kv6oTkSze5875kSrrCvl">A doua ediție a workshop-ului WeADL</a></p>
+<li style="font-size:80%"><p><a href="https://www.facebook.com/105951141283282/posts/pfbid024ATGcYRfFgnbto8YDZ9u72j6oLB1y3RioBBewPfEmD5D1Kv6oTkSze5875kSrrCvl">A doua ediție a workshop-ului WeADL</a></p>  
 
 </ul>
+
+
+
 ## Raportare anuală
 
 <ul>
