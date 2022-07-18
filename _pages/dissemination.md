@@ -222,6 +222,9 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"><p><a href="https://www.facebook.com/105951141283282/posts/pfbid024ATGcYRfFgnbto8YDZ9u72j6oLB1y3RioBBewPfEmD5D1Kv6oTkSze5875kSrrCvl">A doua ediție a workshop-ului WeADL</a></p>  
 
 </ul>
+
+
+
 ## Raportare anuală
 
 <ul>
