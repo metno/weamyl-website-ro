@@ -207,7 +207,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/">Comunicat de presă, UBB, 9.11.2021</a></p></li>
 
-<li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/a-doua-editie-a-workshopului-in-invatare-profunda-aplicata-weadl-2022/"> Comunicat de presă, Facultatea de Mathematică și Informatică (UBB), 26.05.2022</a></p></li>
+<li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/a-doua-editie-a-workshopului-in-invatare-profunda-aplicata-weadl-2022/"> Comunicat de presă, Facultatea de Matematică și Informatică (UBB), 26.05.2022</a></p></li>
 
 <li style="font-size:80%">  <p> <a href="https://m.facebook.com/story.php?story_fbid=pfbid0SB716nEHajYwSbMjwKnM2fpx9zeQBaeysHKdTcdVrAwdcUANPQsGVD5eDjhrF7b8l&id=100069013215997"> Comunicat de presă, UEFISCDI, 26.05.2022</a></p></li>
 
@@ -219,7 +219,7 @@ O prezentare generală a rezultatelor proiectului.
 <!--<a href="https://twitter.com/WeaMyLProject?s=20&t=lIubQgFakRfeT2z29WcDQw"><img src="https://weamyl.met.no/assets/images/Twitter-logo.png" width="30" height="30"></a>
 <a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="https://weamyl.met.no/assets/images/youtube.jpg" width="40" height="40"></a>-->
 <ul>
-<li style="font-size:80%"><p><a href="https://www.facebook.com/105951141283282/posts/pfbid024ATGcYRfFgnbto8YDZ9u72j6oLB1y3RioBBewPfEmD5D1Kv6oTkSze5875kSrrCvl">A doua ediție a workshop-ului WeADL</a></p>  
+<li style="font-size:80%"><p><a href="https://www.facebook.com/105951141283282/posts/pfbid024ATGcYRfFgnbto8YDZ9u72j6oLB1y3RioBBewPfEmD5D1Kv6oTkSze5875kSrrCvl">A doua ediție a workshop-ului WeADL</a></p>  </li>
 
 </ul>
 
