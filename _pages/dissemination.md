@@ -37,6 +37,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"><p> Narcisa Milian, Cristina Blaga, <a href="https://www.todaysoftmag.ro/article/3631/avertizarile-meteorologice-de-tipul-nowcasting">Avertizările Meteorologice de tipul nowcasting</a>, TODAY SOFTWARE MAGAZINE, Nr. 121, Iunie 2022, pp. 25-29. <a href="https://weamyl.met.no/assets/files/abstractMilian_ro.pdf">Abstract</a> </p></li>
 
+<li style="font-size:80%"><p> Gabriela-Victoria Harpa și Adela-Mariana Mitea, <a href="https://www.todaysoftmag.ro/article/3654/date-masuratori-si-reteaua-meteorologica">Date, măsurători și rețeaua meteorologică</a>, TODAY SOFTWARE MAGAZINE, Nr. 122, Iulie 2022, pp. 22-27. <a href="https://weamyl.met.no/assets/files/abstractHarpa_ro.pdf">Abstract</a> </p></li>
 </ol>
 
 
