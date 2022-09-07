@@ -33,7 +33,7 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"><p> Meda Andrei, <a href="https://www.todaysoftmag.ro/article/3591/prognoza-vremii-si-modelele-numerice">Prognoza Vremii și Modelele Numerice</a>, TODAY SOFTWARE MAGAZINE, Nr. 119, Mai 2022, pp. 27-30. <a href="https://weamyl.met.no/assets/files/abstractMeda_ro.pdf">Abstract</a> </p></li>
 
-<li style="font-size:80%"> <p> Albu, A.-I., Czibula G., Mihai, A., Czibula, I.G., Burcea, S. Mezghani, A., <a href="https://www.mdpi.com/2072-4292/14/16/3890">Enhancing the performance of  weather radar products prediction for nowcasting purposes using a customized deep learning model</a>, Remote Sensing, Special Issue "Artificial Intelligence-Based Learning Approaches for Remote Sensing", 2022, 14(16), 3890 (2021 IF=5.349, Q1) </p></li>
+<li style="font-size:80%"> <p> Albu, A.-I., Czibula G., Mihai, A., Czibula, I.G., Burcea, S. Mezghani, A., <a href="https://www.mdpi.com/2072-4292/14/16/3890">NeXtNow: A Convolutional Deep Learning Model for the Prediction of Weather Radar Data for Nowcasting Purposes</a>, Remote Sensing, Special Issue "Artificial Intelligence-Based Learning Approaches for Remote Sensing", 2022, 14(16), 3890 (2021 IF=5.349, Q1) </p></li>
 
 <li style="font-size:80%"><p> Narcisa Milian, Cristina Blaga, <a href="https://www.todaysoftmag.ro/article/3631/avertizarile-meteorologice-de-tipul-nowcasting">Avertizările Meteorologice de tipul nowcasting</a>, TODAY SOFTWARE MAGAZINE, Nr. 121, Iunie 2022, pp. 25-29. <a href="https://weamyl.met.no/assets/files/abstractMilian_ro.pdf">Abstract</a> </p></li>
 
