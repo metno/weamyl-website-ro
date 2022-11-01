@@ -3,9 +3,9 @@ main:
     url: /about/
   - title: Diseminare
     url: /dissemination/
-  - title: Parteneri
+  - title: Echipa
     url: /partners/
-  - title: Modele de nowcasting
+  - title: Rezultate
     url: /modele/
   - title: Contact
     url : /contact/
@@ -21,9 +21,9 @@ page_links:
       url: /about/
     - title: Diseminare
       url: /dissemination/
-    - title: Parteneri
+    - title: Echipa
       url: /partners/
-    - title: Modele de nowcasting
+    - title: Rezultate
       url: /modele/
     - title: Confidențialitate
       url: /privacy/

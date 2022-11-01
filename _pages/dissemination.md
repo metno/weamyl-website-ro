@@ -2,12 +2,40 @@
 permalink: /dissemination/
 title: "Diseminare"
 ---
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #2073ac;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
 
-O prezentare generală a rezultatelor proiectului.
+.active, .collapsible:hover {
+  background-color: #555;
+}
 
-## Publicații
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
 
-### Publicații din cadrul proiectului
+<h2>O prezentare generală a rezultatelor proiectului.</h2>
+<button type="button" class="collapsible">Publicații din cadrul proiectului</button>
+<div class="content">
+
 <ol>
 <li style="font-size:80%"> <p> Czibula, G., Andrei, M., Mihuleț, E., <a href="https://weamyl.met.no/assets/files/applsci-11-00125.pdf">NowDeepN: An ensemble of deep learning models for weather nowcasting based on radar products' values prediction</a>, Applied Sciences, 2021, 11(1), 125; https://doi.org/10.3390/app11010125. (2020 IF=2.679, Q2).</p></li>
 
@@ -40,9 +68,11 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"><p> Gabriela-Victoria Harpa și Adela-Mariana Mitea, <a href="https://www.todaysoftmag.ro/article/3654/date-masuratori-si-reteaua-meteorologica">Date, măsurători și rețeaua meteorologică</a>, TODAY SOFTWARE MAGAZINE, Nr. 122, Iulie 2022, pp. 22-27. <a href="https://weamyl.met.no/assets/files/abstractHarpa_ro.pdf">Abstract</a> </p></li>
 </ol>
 
+</div>
 
+<button type="button" class="collapsible">Publicații anterioare</button>
+<div class="content">
 
-### Publicații anterioare
 <ol>
 <li style="font-size:80%"> <p> Czibula, G., Mihai, A., Mihuleț, E., Teodorovici, D., <a href="https://weamyl.met.no/assets/files/KES2019.pdf">Using self-organizing maps for unsupervised analysis of radar data for nowcasting purposes</a>, 23nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2019), Procedia Computer Science  Vol 159, (2019) pp. 48-57</p></li>
 
@@ -52,22 +82,32 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> Czibula, G., Mihai, A., Czibula, I.G., <a href="https://weamyl.met.no/assets/files/KES2020.pdf">RadRAR: A relational association rule mining approach for nowcasting based on predicting radar products' values</a>, 24nd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), Procedia Computer Science, Vol. 176, pp. 300-309</p></li>
 </ol>
+</div>
 
-## Teze de doctorat
+
+<button type="button" class="collapsible">Teze de doctorat</button>
+<div class="content">
+
 <ul>
 <li style="font-size:80%"> <p> 2021, Andrei Mihai, <a href="https://metno.github.io/weamyl-website-ro/assets/files/PhDAndrei_ro.pdf">Modele de învățare automată pentru prognoza pe termen scurt a vremii</a> </p></li>
 
 </ul>
 
+</div>
 
-## Seminarii și workshop-uri
+<button type="button" class="collapsible">Seminarii și workshop-uri</button>
+<div class="content">
+
 <ul>
 <li style="font-size:80%"> <p> 24 mai 2021, <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/">Primul workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
 
 <li style="font-size:80%"> <p> 3 iunie 2022, <a href="http://www.cs.ubbcluj.ro/weadl/">Al doilea workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
 </ul>
+</div>
 
-## Prezentări
+<button type="button" class="collapsible">Prezentări</button>
+<div class="content">
+
 <ul>
 <li style="font-size:80%"> <p> 2021, workshop WeADL, Eugen Mihuleț (ANM): <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2021/06/Technology%20in%20Weather%20Forecasting%20-%20Eugen%20Mihulet.pdf">Technology in weather forecasting</a></p></li>
 
@@ -130,8 +170,11 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (UBB) <a href="http://www.cs.ubbcluj.ro/weadl/wp-content/uploads/2022/06/Alexandra%20Albu%20-%20Protein-Protein%20Interaction%20Prediction.pdf">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
 
 </ul>
+</div>
 
-## Video
+<button type="button" class="collapsible">Video</button>
+<div class="content">
+
 <ul>
 <li style="font-size:80%"> <p>2021, workshop WeADL, Eugen Mihuleț (NMA): <a  href="https://www.youtube.com/watch?v=_Jxk9NMJMZ4">Technology in weather forecasting</a></p></li>
 
@@ -188,9 +231,39 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%"> <p> 2022, WeADL workshop, Alexandra Albu (UBB) <a href="https://youtu.be/zfMXwB7g6m8">Protein-Protein Interaction Prediction using a Deep Learning Approach based on Autoencoders </a> </p> </li>
 </ul>
+</div>
 
-## Testimoniale
-<ul>
+<button type="button" class="collapsible">Testimoniale</button>
+<div class="content">
+
+<table>
+<tr>
+ <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/Rector.png"/> </center></td>
+ <td align="justify">
+<a href="https://weamyl.met.no/assets/files/rector.pdf"> Discursul rectorului la ceremonia de deschidere, workshop WeADL, 2021</a>
+</td>
+</tr>
+<tr>
+ <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/SorinCheval.png"> </center></td>
+ <td align="justify">
+<a href="https://weamyl.met.no/assets/files/testimonialSorin.pdf">Discurs la ceremonia de deschidere, workshop WeADL, 2022 </a>
+</td>
+</tr>
+<tr>
+ <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/gabi_mircea.jpg"/> </center></td>
+ <td align="justify">
+<a href="https://weamyl.met.no/assets/files/testimonial_gabi.pdf"> Gabriel Mircea (UBB) </a>
+</td>
+</tr>
+<tr>
+ <td width="25%" ><center>  </center></td>
+ <td align="justify">
+<a href="https://weamyl.met.no/assets/files/testimonial_anm.pdf"> Cristian Grecu (ANM) </a>
+</td>
+</tr>
+</table>
+<!--<ul>
+
 <li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/rector.pdf">Discursul rectorului la ceremonia de deschidere, workshop WeADL, 2021</a></p></li>
 
 <li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/testimonial_gabi.pdf">Gabriel Mircea (UBB)</a></p></li>
@@ -200,9 +273,12 @@ O prezentare generală a rezultatelor proiectului.
 <li style="font-size:80%"> <p> <a  href="https://weamyl.met.no/assets/files/testimonialSorin.pdf">Discurs la ceremonia de deschidere, workshop WeADL, 2022</a></p></li>
 
 
-</ul>
+</ul>-->
+</div>
 
-##  Comunicate de presă
+<button type="button" class="collapsible">Comunicate de presă</button>
+<div class="content">
+
 <ul>
 
 <li style="font-size:80%"> <p> <a  href="https://www.meteoromania.ro/wp-content/uploads/comunicate/Proiect_WeaMyL.pdf">Comunicat de presă, ANM, 01.2021</a></p></li>
@@ -221,8 +297,10 @@ O prezentare generală a rezultatelor proiectului.
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-a-doua-editie-a-workshopului-weadl-workshop-on-applied-deep-learning/"> Comunicat de presă, NEWSUBB, UBB, 25.05.2022 </a></p></li>
 </ul>
+</div>
 
-## Rețele sociale
+<button type="button" class="collapsible">Rețele sociale</button>
+<div class="content">
 
 <!--<a href="https://twitter.com/WeaMyLProject?s=20&t=lIubQgFakRfeT2z29WcDQw"><img src="https://weamyl.met.no/assets/images/Twitter-logo.png" width="30" height="30"></a>
 <a href="https://www.youtube.com/channel/UCiUSpKhB0TiRpZ0l2Q67GJQ/featured"><img src="https://weamyl.met.no/assets/images/youtube.jpg" width="40" height="40"></a>-->
@@ -231,12 +309,35 @@ O prezentare generală a rezultatelor proiectului.
 
 </ul>
 
+</div>
 
+<button type="button" class="collapsible">Raportare anuală</button>
+<div class="content">
 
-## Raportare anuală
 
 <ul>
 
 <li style="font-size:80%"> <p> <a href="https://weamyl.met.no/assets/files/raport21.pdf">Rezumatul raportului tehnic 2020-2021</a></p></li>
 
 </ul>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
