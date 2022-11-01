@@ -32,7 +32,7 @@ title: "Parteneri"
 </head>
 <body>
 
-<h2>Membrii consorțiului<h2>
+<h2>Membrii consorțiului</h2>
 <button type="button" class="collapsible">Universitatea Babeș-Bolyai (UBB)</button>
 <div class="content">
 
@@ -50,3 +50,25 @@ title: "Parteneri"
 <div class="content">
 
 <p class="small" align="justify">Institutul Meteorologic Norvegian (MET Norvegia) este o agenție de stat din Norvegia, un centru internațional de expertiză responsabil pentru serviciile meteorologice publice în scopuri civile și militare. Acesta prognozează vremea, monitorizează clima și efectuează cercetări. MET Norvegia este implicată activ în activitatea OMM, a Centrului european pentru prognoze meteo pe distanțe medii și a Organizației europene pentru exploatarea sateliților meteorologici (EUMETSAT). Principalele activități de cercetare și dezvoltare includ cercetarea atmosferică, oceanică și climatologică și implică atât modele, cât și observații. MET Norvegia are, de asemenea, o lungă înregistrare a participării la programele de granturi regionale și SEE / Norvegia, în plus față de granturile UE, proiectele finanțate de organizații externe și proiectele finanțate de Consiliul Norvegian de Cercetare și de organizația nordică NordForsk. Vă rugăm să consultați <a href="metno_ro.md">pagina partenerului</a> pentru mai multe detalii.</p>
+
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>

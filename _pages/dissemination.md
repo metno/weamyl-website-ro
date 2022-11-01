@@ -256,7 +256,7 @@ title: "Diseminare"
 </td>
 </tr>
 <tr>
- <td width="25%" ><center>  </center></td>
+ <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/CristianGrecu.png"/> </center></td>
  <td align="justify">
 <a href="https://weamyl.met.no/assets/files/testimonial_anm.pdf"> Cristian Grecu (ANM) </a>
 </td>
