@@ -51,7 +51,7 @@ antrenat pe un set de date conținând 45 de zile cu date radar <a href="https:/
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
 </video>
-<p class="small"align="center">NowCastX 15 min - bazat pe datele radar disponibile face predicție pentru următoarele 15 minute. </p>
+<p class="small" align="center">NowCastX 15 min - bazat pe datele radar disponibile face predicție pentru următoarele 15 minute. </p>
 
 <h2> NowcastX versiune 0.0.1</h2>
 <p class="small" align="justify">NowCastX versiune 0.0.1 - Model preliminar bazat pe arhitectura Xception, antrenat pe un set de date conținând 6 zile cu fenomene meteorologice <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>, selectate din datele disponibile la <a href="https://api.met.no/weatherapi/metalerts/1.1?show=all&lang=en">weatherapi</a>. Modelul a fost antrenat pe o regiune de aproximativ 300km x 300km din jurul orașului Oslo, pentru predicția reflectivității compozite după un interval de 5 minute folosind datele înregistrate pentru momentul actual. Ziua utilizată pentru ilustrarea predicțiilor nu a fost folosită la antrenare.</p>
