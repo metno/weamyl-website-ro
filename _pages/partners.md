@@ -36,8 +36,8 @@ title: "Parteneri"
 <button type="button" class="collapsible">Universitatea Babeș-Bolyai (UBB)</button>
 <div class="content">
 
-<p class="small" align="justify">Universitatea Babeș-Bolyai este o universitate publică românească, fiind astăzi cea mai mare universitate din România și una dintre cele mai bune și mai reprezentative universități românești. La nivel național, UBB a primit titlul de universitate de cercetare intensivă și a fost clasată ca cea mai bună universitate românească în metarankingul <a href="https://cwur.org/2019-2020.php">CWUR World University Rankings 2019-2020</a>. Echipa de cercetare Informatică de la UBB este un grup de cercetare în ML (<a href="www.cs.ubbcluj.ro/ml">MLyRE</a>) de la Facultatea de Matematică și Informatică format din membri cu înaltă expertiză și rezultate științifice valoroase în domeniul inteligenței artificiale, în special în ML. Vă rugăm să consultați <a href="bbu_ro.md">pagina partenerului</a> pentru mai multe detalii.
-</div></p>
+<p class="small" align="justify">Universitatea Babeș-Bolyai este o universitate publică românească, fiind astăzi cea mai mare universitate din România și una dintre cele mai bune și mai reprezentative universități românești. La nivel național, UBB a primit titlul de universitate de cercetare intensivă și a fost clasată ca cea mai bună universitate românească în metarankingul <a href="https://cwur.org/2019-2020.php">CWUR World University Rankings 2019-2020</a>. Echipa de cercetare Informatică de la UBB este un grup de cercetare în ML (<a href="www.cs.ubbcluj.ro/ml">MLyRE</a>) de la Facultatea de Matematică și Informatică format din membri cu înaltă expertiză și rezultate științifice valoroase în domeniul inteligenței artificiale, în special în ML. Vă rugăm să consultați <a href="bbu_ro.md">pagina partenerului</a> pentru mai multe detalii.</p>
+</div>
 
 <button type="button" class="collapsible">Administrația Națională de Meteorologie (ANM)</button>
 <div class="content">
