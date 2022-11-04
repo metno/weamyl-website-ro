@@ -65,7 +65,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
   Trygve Aspenes este inginer senior la Institutul Meteorologic Norvegian, în Oslo, Norvegia. A absolvit un masterat științific în Meteorologie. Principalele sale domenii de interes sunt: rolul datelor din satelit în prognoza vremii; modalități de preluare, procesare și distribuire a acestor date către utilizatori.
   </td></tr>
   </table>
- - <p class="small" align="justify">Arild Burud, inginer senior în IT</p></p>
+ - <p class="small" align="justify">Arild Burud, inginer senior în IT</p>
  <table>
  <tr>
  <td width="25%"><center> <img src="https://weamyl.met.no/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
