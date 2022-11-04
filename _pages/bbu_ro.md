@@ -3,11 +3,11 @@ permalink: /bbu_ro/
 title: "Despre Universitatea Babeș-Bolyai - Echipa MLyRE "
 ---
 
-<a href="http://www.cs.ubbcluj.ro/ml/">MLyRE </a> (Machine Learning REsearch) este un grup de cercetare în domeniul Învățării Automate la Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai din Cluj-Napoca, România. Grupul se concentrează pe cercetări fundamentale, aplicative și interdisciplinare privind învățarea automată.
+<p class="small" align="justify"><a href="http://www.cs.ubbcluj.ro/ml/">MLyRE </a> (Machine Learning REsearch) este un grup de cercetare în domeniul Învățării Automate la Facultatea de Matematică și Informatică, Universitatea Babeș-Bolyai din Cluj-Napoca, România. Grupul se concentrează pe cercetări fundamentale, aplicative și interdisciplinare privind învățarea automată.</p>
 
-Membrii grupului MLyRE care participă în proiectul WeaMyL:
+<p class="small" align="justify">Membrii grupului MLyRE care participă în proiectul WeaMyL:</p>
 
-* <a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Dr. Czibula Gabriela </a> - cercetător principal
+* <p class="small" align="justify"><a href= "http://www.cs.ubbcluj.ro/~gabis/"> Prof. Dr. Czibula Gabriela </a> - cercetător principal</p>
 <table>
 <tr>
 <td width="25%"> <center><img src="https://weamyl.met.no/assets/images/bio/circle_GabrielaCzibula.png" />  </center> </td>
@@ -17,7 +17,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </td>
 </tr>
 </table>
-* <a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Dr. Czibula Istvan </a>
+* <p class="small" align="justify"><a href= "http://www.cs.ubbcluj.ro/~istvanc/"> Prof. Dr. Czibula Istvan </a></p>
 <table>
 <tr>
 <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/circle_IstvanCzibula.png" /> </center> </td>
@@ -27,7 +27,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </td>
 </tr>
 </table>
-* <a href= "https://sites.google.com/view/iuliana-bocicor/home"> Conf. Dr. Bocicor Iuliana </a>
+* <p class="small" align="justify"><a href= "https://sites.google.com/view/iuliana-bocicor/home"> Conf. Dr. Bocicor Iuliana </a></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/circle_IulianaBocicor.png"/> </center></td>
@@ -37,7 +37,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </td>
 </tr>
 </table>
-* <a href= "https://arthur486.wordpress.com/"> Lect. Dr. Molnar Arthur </a>
+* <p class="small" align="justify"><a href= "https://arthur486.wordpress.com/"> Lect. Dr. Molnar Arthur </a></p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/ArthurMolnar-circle.png"/> </center></td>
@@ -47,7 +47,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </td>
 </tr>
 </table>
-* <a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Dr. Onet-Marian Zsuzsanna </a>
+* <p class="small" align="justify"><a href= "http://www.cs.ubbcluj.ro/~marianzsu/"> Lect. Dr. Onet-Marian Zsuzsanna </a></p>
 <table>
 <tr>
 <td align="justify">Zsuzsanna Onet-Marian este lector în cadrul Departamentului de Informatică al Facultății de Matematică și Informatică, Universitatea Babeș-Bolyai Cluj-Napoca, România. A publicat peste 25 de lucrări în reviste și conferințe de prestigiu. Domeniile principale de cercetare sunt Învățarea automată și Inginerie soft bazată pe căutare.<br>
@@ -56,7 +56,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </tr>
 </table>
 
-* Lect. Dr. Ionescu Vlad-Sebastian
+* <p class="small" align="justify">Lect. Dr. Ionescu Vlad-Sebastian</p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/vlad_ionescu-circle.png"/> </center></td>
@@ -66,17 +66,17 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </td>
 </tr>
 </table>
-* Lect. Dr. Mircea Ioan-Gabriel
+* <p class="small" align="justify">Lect. Dr. Mircea Ioan-Gabriel</p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/gabi_mircea.png"/> </center></td>
-<td align="justify">Sunt lector la Universitatea Babeș-Bolyai din Cluj-Napoca, România. Alimentat de visul meu din copilărie de a deveni Indiana Jones, am reușit să combin atracția mea inițială pentru istorie și arheologie cu o pasiune recent descoperită pentru învățarea automată și învățarea profundă, care a izvorât din dragostea mea anterioară pentru matematică și informatică, concretizată într-o teză de doctorat, intitulată „Învățare automată aplicată în bioarheologie”. Interesele mele includ aplicații interesante ale învățării automate și tehnicilor de învățare profundă în diferite proiecte științifice interdisciplinare. 
+<td align="justify">Sunt lector la Universitatea Babeș-Bolyai din Cluj-Napoca, România. Alimentat de visul meu din copilărie de a deveni Indiana Jones, am reușit să combin atracția mea inițială pentru istorie și arheologie cu o pasiune recent descoperită pentru învățarea automată și învățarea profundă, care a izvorât din dragostea mea anterioară pentru matematică și informatică, concretizată într-o teză de doctorat, intitulată „Învățare automată aplicată în bioarheologie”. Interesele mele includ aplicații interesante ale învățării automate și tehnicilor de învățare profundă în diferite proiecte științifice interdisciplinare.
 <br>
 <a href="https://scholar.google.ro/citations?hl=ro&user=P09Bqs8AAAAJ&view_op=list_works&sortby=pubdate"> Google Scholar</a>
 </td>
 </tr>
 </table>
-* Asist. Mihai Andrei
+* <p class="small" align="justify">Asist. Mihai Andrei</p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/MihaiAndrei-circle.png"/> </center></td>
@@ -86,7 +86,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </td>
 </tr>
 </table>
-* Asist. Dr. Miholca Diana-Lucia
+* <p class="small" align="justify">Asist. Dr. Miholca Diana-Lucia</p>
 <table>
 <tr>
 <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/circle_DianaMiholca.png"/> </center></td>
@@ -97,7 +97,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </tr>
 </table>
 
-* Drd. Albu Alexandra
+* <p class="small" align="justify">Drd. Albu Alexandra</p>
 <table>
 <tr>
 <td align="justify">Alexandra Albu este doctorand la Facultatea de Mathematică și Informatică a Universității Babeș-Bolyai Cluj-Napoca, România. Domeniile sale de cercetare cuprind Representation Learning, Deep Generative Models și Variational Inference.<br>
@@ -105,7 +105,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </td>
 </tr>
 </table>
-* Drd. Maier Mariana
+* <p class="small" align="justify">Drd. Maier Mariana</p>
 <table>
 <tr>
 <td align="justify">Mariana Maier este doctorand la Facultatea de Mathematică și Informatică a Universității Babeș-Bolyai Cluj-Napoca, România. Domeniile sale de cercetare cuprind Inteligența computațională, Învățarea automată și Data mining în educație.<br>
@@ -114,7 +114,7 @@ Gabriela Czibula este profesor în cadrul Departamentului de Informatică al Fac
 </tr>
 </table>
 
-* Chirtoș Delia, manager financiar
+* <p class="small" align="justify">Chirtoș Delia, manager financiar</p>
 <table>
 <tr>
 <td align="justify">Delia Chirtoș lucrează ca economist la Universitatea Babeș-Bolyai Cluj-Napoca, România, din anul 2013. A obținut licența în Bănci și burse de valori în anul 1997 și masteratul în Administrarea afacerii în anul 2009. Din 2006, este membru în Corpul Experţilor Contabili şi Contabililor Autorizaţi din România (CECCAR). În calitate de economist la Universitatea Babeș-Bolyai, desfășoară activități specifice contabilității, cum ar fi note contabile, balanțe de verificare, execuție bugetară și este responsabil financiar pentru proiecte cu finanțare europeană. <br>
