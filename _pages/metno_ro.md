@@ -3,11 +3,11 @@ permalink: /metno_ro/
 title: "Despre MET Norvegia"
 ---
 
-Institutul Meteorologic Norvegian (MET Norvegia) este o agenție de stat din Norvegia, un centru internațional de expertiză responsabil cu serviciile meteorologice publice, civile și militare. Acesta realizează prognoze ale vremii, monitorizează clima și are activități de cercetare. MET Norvegia este implicată activ în activitatea OMM, a Centrului European de Prognoză Meteo pe Termen Mediu și a Organizației Europene pentru Exploatarea Sateliților Meteorologici (EUMETSAT). MET Norvegia numără peste 80 de cercetători. Principalele activități de cercetare și dezvoltare includ cercetări atmosferice, oceanice și climatologice și implică atât modelare, cât și observare. MET Norvegia are, de asemenea, numeroase participări la programele de granturi regionale și SEE / Norvegia, pe lângă granturile UE, proiecte finanțate de organizații externe și proiecte finanțate de Consiliul Norvegian de Cercetare și de Organizația Nordică NordForsk.
+<p class="small" align="justify">Institutul Meteorologic Norvegian (MET Norvegia) este o agenție de stat din Norvegia, un centru internațional de expertiză responsabil cu serviciile meteorologice publice, civile și militare. Acesta realizează prognoze ale vremii, monitorizează clima și are activități de cercetare. MET Norvegia este implicată activ în activitatea OMM, a Centrului European de Prognoză Meteo pe Termen Mediu și a Organizației Europene pentru Exploatarea Sateliților Meteorologici (EUMETSAT). MET Norvegia numără peste 80 de cercetători. Principalele activități de cercetare și dezvoltare includ cercetări atmosferice, oceanice și climatologice și implică atât modelare, cât și observare. MET Norvegia are, de asemenea, numeroase participări la programele de granturi regionale și SEE / Norvegia, pe lângă granturile UE, proiecte finanțate de organizații externe și proiecte finanțate de Consiliul Norvegian de Cercetare și de Organizația Nordică NordForsk.</p>
 
-Echipa de cercetare MET Norvegia este formată din:
+<p class="small" align="justify">Echipa de cercetare MET Norvegia este formată din:</p>
 
- - Anne-Cecilie Riiser, directorul departamentului IT
+ - <p class="small" align="justify">Anne-Cecilie Riiser, directorul departamentului IT</p>
 <table>
 <tr>
 <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/anne_cecilie_MET_Norway.jpg" /> </center> </td>
@@ -17,7 +17,7 @@ Echipa de cercetare MET Norvegia este formată din:
   <a href="https://www.linkedin.com/in/anne-cecilie-riiser-b8885b/">LinkedIn</a>
  </td></tr>
  </table>
- - Lisbeth Bergholt, informatician senior
+ - <p class="small" align="justify">Lisbeth Bergholt, informatician senior</p>
  <table>
  <tr>
  <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/Lisbeth_MET_Norway.png" /> </center> </td>
@@ -27,7 +27,7 @@ Echipa de cercetare MET Norvegia este formată din:
  <a href="https://www.linkedin.com/in/lisbeth-bergholt-a1544a3/">LinkedIn</a>
  </td></tr>
  </table>
- - Bard Saadatnejad, informatician senior
+ - <p class="small" align="justify">Bard Saadatnejad, informatician senior</p>
  <table>
  <tr>
  <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/bard_MET_Norway.png" /> </center> </td>
@@ -37,7 +37,7 @@ Echipa de cercetare MET Norvegia este formată din:
  <a href="">LinkedIn</a>
  </td></tr>
  </table>
- - Nina Elisabeth Larsgård, cercetător
+ - <p class="small" align="justify">Nina Elisabeth Larsgård, cercetător</p>
  <table>
  <tr>
  <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/Nina_MET_Norway.png" /> </center> </td>
@@ -47,7 +47,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
  </td></tr>
  </table>
 
- - Christoffer Artturi Elo, cercetător
+ - <p class="small" align="justify">Christoffer Artturi Elo, cercetător</p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no//assets/images/bio/christoffer_MET_Norway.png"/> </center></td>
@@ -57,7 +57,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
  </td>
  </tr>
  </table>
- - Trygve Aspenes, inginer senior
+ - <p class="small" align="justify">Trygve Aspenes, inginer senior</p>
  <table>
  <tr>
  <td width="25%" ><center> <img src="https://weamyl.met.no//assets/images/bio/trygve_MET_Norway.png"/> </center></td>
@@ -65,7 +65,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
   Trygve Aspenes este inginer senior la Institutul Meteorologic Norvegian, în Oslo, Norvegia. A absolvit un masterat științific în Meteorologie. Principalele sale domenii de interes sunt: rolul datelor din satelit în prognoza vremii; modalități de preluare, procesare și distribuire a acestor date către utilizatori.
   </td></tr>
   </table>
- - Arild Burud, inginer senior în IT
+ - <p class="small" align="justify">Arild Burud, inginer senior în IT</p></p>
  <table>
  <tr>
  <td width="25%"><center> <img src="https://weamyl.met.no/assets/images/bio/Arild_MET_Norway.png"/> </center></td>
@@ -73,7 +73,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
   Arild Burud lucrează ca inginer senior în IT la Institutul Meteorologic Norvegian, Oslo, Norvegia. Este licențiat în inginerie structurală și IT. Principalul său domeniu de interes este îmbinarea cercetării cu IT-ul, în scopul de a face cercetarea deschisă și accesibilă.
   </td></tr>
   </table>
- - Anita Verpe Dyrrdal, cercetător și director al Centrului Norvegian de Servicii Climatice
+ - <p class="small" align="justify">Anita Verpe Dyrrdal, cercetător și director al Centrului Norvegian de Servicii Climatice</p>
  <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
@@ -83,7 +83,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
  </td>
  </tr>
  </table>
- - Abdelkader Mezghani, cercetător senior
+ - <p class="small" align="justify">Abdelkader Mezghani, cercetător senior</p>
  <table>
  <tr>
  <td width="25%" > <center> <img src="https://weamyl.met.no/assets/images/bio/abdelkader_metno.jpg" /> </center> </td>
@@ -92,7 +92,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
   <a href="https://orcid.org/0000-0003-2825-5884">ORCID</a>; <a href="https://www.linkedin.com/in/abdelkader-mezghani-8a3aa127/?originalSubdomain=no">LinkedIn</a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en">Google Scholars</a>
   </td></tr>
   </table>
- - Kajsa Maria Parding, cercetător junior
+ - <p class="small" align="justify">Kajsa Maria Parding, cercetător junior</p>
  <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
@@ -102,7 +102,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
  </td>
  </tr>
  </table>
- - Helena Birkeland Erlandsen, cercetător junior
+ - <p class="small" align="justify">Helena Birkeland Erlandsen, cercetător junior</p>
  <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no//assets/images/bio/helene_MET_Norway.png"/> </center></td>
@@ -113,7 +113,7 @@ Nina Elisabeth Larsgård este cercetător în cadrul MET Norvegia. Principalele 
  </tr>
  </table>
 
- - Hans Christian Nenseth, inginer de sistem
+ - <p class="small" align="justify">Hans Christian Nenseth, inginer de sistem</p>
 <table>
  <tr>
   <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/Hans_Christian_MET_Norway.png"/> </center></td>
@@ -125,7 +125,8 @@ Hans Christian Nenseth este licențiat în inginerie informatică la OsloMet și
  </tr>
  </table>
 
-- Tine Klemsdahl Eklund, consilier senior
+- <p class="small" align="justify">Tine Klemsdahl Eklund, consilier senior</p>
+
 <table>
 <tr>
 <td width="25%" ><center> <img src="https://weamyl.met.no/assets/images/bio/tine_MET_Norway.png"/> </center></td>
