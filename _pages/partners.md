@@ -40,9 +40,13 @@ title: "Parteneri"
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://weamyl.met.no/assets/images/UBB1.png"></td>
-    <td><img src="https://weamyl.met.no/assets/images/UBB2.png"></td>
+    <td><img src="https://weamyl.met.no/assets/images/ubb/UBB7.png"></td>
+    <td><img src="https://weamyl.met.no/assets/images/ubb/UBB2.png"></td>
   </tr>
+  <tr>
+  <td><img src="https://weamyl.met.no/assets/images/ubb/UBB5.png"></td>
+  <td><img src="https://weamyl.met.no/assets/images/ubb/UBB1.png"></td>
+</tr>
 </table>
 </div>
 
@@ -60,7 +64,7 @@ title: "Parteneri"
   </tr>
   <tr>
     <td><img src="https://weamyl.met.no/assets/images/anm/anm9.jpg"></td>
-    <td><img src="https://weamyl.met.no/assets/images/anm/anm5.png"></td>
+    <td><img src="https://weamyl.met.no/assets/images/anm/anm4.jpg"></td>
   </tr>
 
 </table>
