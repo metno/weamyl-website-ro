@@ -67,7 +67,7 @@ antrenat pe un set de date conținând 45 de zile cu date radar <a href="https:/
 <p class="small" align="justify">Această componentă oferă o interfață web unui motor de căutare conectat la o bază de date semantică care conține avertismente de vreme severă. Interfața web este ușor de utilizat și permite căutarea/filtrarea pentru diferite tipuri de evenimente meteorologice și, de asemenea, pentru anumite evenimente meteo. Interfața web oferă și posibilitatea de a investiga zone geografice afectate de evenimente adnotate și anterioare. În plus, oferă informații despre locația fișierelor de date sursă, oferind astfel suport în antrenarea modelelor de învățare automată pentru detectarea posibilelor evenimente meteo interesante.
 </p>
 
-<img src="https://weamyl.met.no/assets/images/Atlas.png"/>
+<img src="https://weamyl.met.no/assets/images/atlas1.png"/>
 </div>
 
 <button type="button" class="collapsible"><h1>Platforma de prognoză</h1></button>
