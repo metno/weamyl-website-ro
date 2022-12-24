@@ -57,7 +57,7 @@ title: "Diseminare"
 
 <li style="font-size:80%"><p> Udo Reckerth, <a href="https://www.todaysoftmag.ro/article/3573/introducere-in-meteorologia-radar">Introducere în Meteorologia RADAR</a>, TODAY SOFTWARE MAGAZINE, Nr. 118, Aprilie 2022, pp. 28-31. <a href="https://weamyl.met.no/assets/files/abstractUdo_ro.pdf">Abstract</a> </p></li>
 
-<li style="font-size:80%"> <p> Albu, Alexandra-Ioana, <a href="https://www.sciencedirect.com/science/article/pii/S1877050922011474">Protein-Protein Interaction Prediction using Supervised Autoencoders</a>, 26th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2022), Volume 27, 2022, Pages 2023-2032 (B-ranked according to CORE classification, indexed WoS)</p> </li>
+<li style="font-size:80%"> <p> Albu, Alexandra-Ioana, <a href="https://www.sciencedirect.com/science/article/pii/S1877050922011474">Protein-Protein Interaction Prediction using Supervised Autoencoders</a>, 26th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2022), Volume 207, 2022, Pages 2023-2032 (B-ranked according to CORE classification, indexed WoS)</p> </li>
 
 <li style="font-size:80%"><p> Meda Andrei, <a href="https://www.todaysoftmag.ro/article/3591/prognoza-vremii-si-modelele-numerice">Prognoza Vremii și Modelele Numerice</a>, TODAY SOFTWARE MAGAZINE, Nr. 119, Mai 2022, pp. 27-30. <a href="https://weamyl.met.no/assets/files/abstractMeda_ro.pdf">Abstract</a> </p></li>
 
