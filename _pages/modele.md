@@ -95,7 +95,7 @@ editor folosit de meteorolog pentru a furniza avertismente CAP.</p></li>
 
 <img src="https://weamyl.met.no/assets/images/demo_GeoWeb.png" />
 
-<p class="small" align="justify">Video</p>
+<p class="small" align="justify"><b>Video 1.</b> Un exemplu care ilustrează rezultatul ML ca prognoză (stânga) față de factorul de reflectivitate echivalent observat (dreapta) folosind serviciul de cartografiere GeoWeb pentru evenimentul meteorologic din 08 aprilie 2022 la 18:05 UTC. Acest videoclip este generat pe baza datelor asimilate la fiecare 5 până la 10 minute.</p>
 
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/GeoWeb_demo.mp4">
