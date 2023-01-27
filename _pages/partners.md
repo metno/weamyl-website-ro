@@ -95,6 +95,10 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+<figure>
+  <center><figcaption>Zoom meeting from January 2023</figcaption></center>
+  <img src="https://weamyl.met.no/assets/images/meetings/ian23.png">
 
+</figure>
 </body>
 </html>
