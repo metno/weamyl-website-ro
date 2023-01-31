@@ -178,6 +178,8 @@ title: "Diseminare"
 
 <li style="font-size:70%"> <p> 2022, Cluj IT Days, <a href="https://www.itdays.ro/presentation/An-innovative-machine-learning-model-for-short-term-weather-prediction-based-on-radar-data">Andrei Mihai (UBB)</a>:<a href="https://weamyl.met.no/assets/files/ITDays_2022.pdf"> An innovative machine learning model for short term weather prediction based on radar data</a></p></li>
 
+<li style="font-size:70%"> <p> 31 Ianuarie 2023, Artificial Intelligence 4.0@UBB, Eugen Mihuleț (ANM), <a href="https://weamyl.met.no/assets/files/Eugen.pdf"> AI for Environment</a></p></li>
+
 </ul>
 </div>
 
