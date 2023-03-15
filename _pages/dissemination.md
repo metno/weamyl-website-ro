@@ -109,6 +109,9 @@ title: "Diseminare"
 <li style="font-size:70%"> <p> 24 mai 2021, <a href="http://www.cs.ubbcluj.ro/weadl/program-2021/">Primul workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
 
 <li style="font-size:70%"> <p> 3 iunie 2022, <a href="http://www.cs.ubbcluj.ro/weadl/">Al doilea workshop de Applied Deep Learning</a> a fost organizat de echipa de cercetare în Machine Learning de la Facultatea de Matematică și Informatică a Universității „Babeș-Bolyai”, împreună cu Administrația Națională de Meteorologie și Institutul Meteorologic Norvegian.</p></li>
+
+<li style="font-size:70%"> <p> 19 - 22 septembrie 2022, workshop-ul <a href="https://weamyl.met.no/assets/files/workshopMET.pdf">Science2Service</a>, organizat de Institutul Meteorologic Norvegian.</p></li>
+
 </ul>
 </div>
 
