@@ -61,7 +61,7 @@ antrenat pe un set de date conținând 45 de zile cu date radar <a href="https:/
 </video>
 
 <h2>ConvSNow 1.0.0</h2>
-<p class="small" align="justify"> ConvSNow versiunea 1.0.0 - Model LSTM convoluțional antrenat pe imagini satelit din Europa colectate de satelitul Meteosat-11 de la EUMESAT, utilizând produsul Severe Storms RGB. Datele folosite pentru ilustrarea predictiilor nu au fost utilizare in antrenare</p>
+<p class="small" align="justify"> ConvSNow versiunea 1.0.0 - Model LSTM convoluțional antrenat pe imagini satelit din Europa colectate de satelitul Meteosat-11 de la EUMESAT, utilizând produsul Severe Storms RGB.Modelul a fost antrenat în data de 24 iunie 2021. Datele folosite pentru ilustrarea predictiilor aparțin unei zile din iunie care nu a fost utilizată in antrenare.</p>
 
 <img src="https://weamyl.met.no/assets/images/ConvSNow.gif" style="width:50%">
 
