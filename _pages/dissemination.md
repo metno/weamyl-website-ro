@@ -313,6 +313,10 @@ title: "Diseminare"
 <li style="font-size:80%">  <p> <a href="https://m.facebook.com/story.php?story_fbid=pfbid0SB716nEHajYwSbMjwKnM2fpx9zeQBaeysHKdTcdVrAwdcUANPQsGVD5eDjhrF7b8l&id=100069013215997"> Comunicat de presă, UEFISCDI, 26.05.2022</a></p></li>
 
 <li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/ubb-organizeaza-a-doua-editie-a-workshopului-weadl-workshop-on-applied-deep-learning/"> Comunicat de presă, NEWSUBB, UBB, 25.05.2022 </a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/3rd-workshop-on-applied-deep-learning-weadl-2023/"> Comunicat de presă, Facultatea de Matematică și Informatică (UBB), 31.05.2023 </a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://news.ubbcluj.ro/a-treia-editie-a-workshop-ului-in-invatare-profunda-aplicata-weadl-la-ubb/"> Comunicat de presă, NEWSUBB, UBB, 31.05.2023 </a></p></li>
 </ul>
 </div>
 
