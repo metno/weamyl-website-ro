@@ -96,7 +96,7 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 <figure>
-  <center><figcaption>Zoom meeting from January 2023</figcaption></center>
+  <center><figcaption>Întâlnirea pe Zoom din ianuarie 2023</figcaption></center>
   <img src="https://weamyl.met.no/assets/images/meetings/ian23.png">
 
 </figure>
