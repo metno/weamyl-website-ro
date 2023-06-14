@@ -78,7 +78,7 @@ antrenat pe un set de date conținând 45 de zile cu date radar <a href="https:/
 <center><figcaption><b>Figura 1.</b> Interfața grafică a Atlasului Adnotat implementat la MET</figcaption></center>
 </figure>
 <br>
-La ANM, interfața grafică a Atlasului Adnotat a fost implementată cu succes pe un server dedicat (Figura 2).
+<p class="small" align="justify">La ANM, interfața grafică a Atlasului Adnotat a fost implementată cu succes pe un server dedicat (Figura 2).</p>
 <figure>
 <img src="https://weamyl.met.no/assets/images/atlas2.png"/>
 <center><figcaption><b>Figura 2.</b> Interfața grafică a Atlasului Adnotat implementat la ANM</figcaption></center>
