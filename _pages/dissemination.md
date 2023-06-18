@@ -99,7 +99,11 @@ title: "Diseminare"
 <div class="content">
 
 <ul>
-<li style="font-size:80%"> <p> 2021, Andrei Mihai, <a href="https://metno.github.io/weamyl-website-ro/assets/files/PhDAndrei_ro.pdf">Modele de învățare automată pentru prognoza pe termen scurt a vremii</a> </p></li>
+<li style="font-size:80%"> <p> 2021, Andrei Mihai (UBB), <a href="https://metno.github.io/weamyl-website-ro/assets/files/PhDAndrei_ro.pdf">Modele de învățare automată pentru prognoza pe termen scurt a vremii</a> </p></li>
+
+<li style="font-size:80%"> <p>2023, Alexandra-Ioana Albu (BBU): <a href="">Unsupervised representation learning and feature fusion in supervised tasks. Applications in natural sciences</a> </p> </li>
+
+<li style="font-size:80%"> <p>2023, Mariana-Ioana Maier (BBU): <a href="">Mining students' behavioural features in multiple learning environments</a> </p> </li>
 
 </ul>
 
