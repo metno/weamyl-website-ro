@@ -39,8 +39,29 @@ title: "Rezultate"
 
 <button type="button" class="collapsible"><h1>Modele de nowcasting</h1></button>
 <div class="content">
-<h2>XNow versiune 1.0.0</h2>
 
+<h2>XNow versiune 3.0.0</h2>
+<p class="small" align="justify">XNow versiune 3.0.3 - Ansamblu bazat pe Xception de 3 modele antrenate pe un set de date care conține 102 zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300 km x 300 km din jurul orașului Oslo pentru a prezice valorile compozite de reflectivitate în viitor, folosind valorile radar actuale și o funcție de pierdere optimizată. Ziua folosită pentru ilustrarea predicțiilor nu a fost folosită pentru antrenament.</p>
+
+<video width="100%" controls>
+  <source src="https://weamyl.met.no/assets/videos/V5_102Days.mp4" type="video/mp4" >
+</video>
+
+<h2>XNow versiune 2.0.4</h2>
+<p class="small" align="justify">XNow versiune 2.0.4 - Ansamblu bazat pe Xception de 3 modele antrenate pe un set de date care conține 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300 km x 300 km din jurul orașului Oslo pentru a prezice valorile compozite de reflectivitate în viitor, folosind valorile radar actuale și o funcție de pierdere optimizată. Ziua folosită pentru ilustrarea predicțiilor nu a fost folosită pentru antrenament.</p>
+
+<video width="100%" controls>
+  <source src="https://weamyl.met.no/assets/videos/V4_new_01_07_2021.mp4" type="video/mp4" >
+</video>
+
+<h2>XNow versiune 2.0.3</h2>
+<p class="small" align="justify">XNow versiune 2.0.3 - Ansamblu bazat pe Xception de 3 modele antrenate pe un set de date care conține 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300 km x 300 km din jurul orașului Oslo pentru a prezice valorile compozite de reflectivitate în viitor folosind valorile radar actuale. Ziua folosită pentru ilustrarea predicțiilor nu a fost folosită pentru antrenament.</p>
+
+<video width="100%" controls>
+  <source src="https://weamyl.met.no/assets/videos/V3_old_01_07_2021.mp4" type="video/mp4" >
+</video>
+
+<h2>XNow versiune 1.0.0</h2>
 <p class="small" align="justify">XNow versiune 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Model bazat pe arhitectura Xception</a>
 antrenat pe un set de date conținând 45 de zile cu date radar <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. Modelul a fost antrenat pe o regiune de aproximativ 300km x 300km din jurul orașului Oslo, pentru predicția reflectivității compozite, folosind datele înregistrate pentru momentul actual. Ziua utilizată pentru ilustrarea predicțiilor nu a fost folosită la antrenare.
 </p>
