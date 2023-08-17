@@ -75,6 +75,17 @@ title: "Parteneri"
 
 <p class="small" align="justify">Institutul Meteorologic Norvegian (MET Norvegia) este o agenție de stat din Norvegia, un centru internațional de expertiză responsabil pentru serviciile meteorologice publice în scopuri civile și militare. Acesta prognozează vremea, monitorizează clima și efectuează cercetări. MET Norvegia este implicată activ în activitatea OMM, a Centrului european pentru prognoze meteo pe distanțe medii și a Organizației europene pentru exploatarea sateliților meteorologici (EUMETSAT). Principalele activități de cercetare și dezvoltare includ cercetarea atmosferică, oceanică și climatologică și implică atât modele, cât și observații. MET Norvegia are, de asemenea, o lungă înregistrare a participării la programele de granturi regionale și SEE / Norvegia, în plus față de granturile UE, proiectele finanțate de organizații externe și proiectele finanțate de Consiliul Norvegian de Cercetare și de organizația nordică NordForsk. Vă rugăm să consultați <a href="https://metno.github.io/weamyl-website-ro/metno_ro/">pagina partenerului</a> pentru mai multe detalii.</p>
 
+<table style="width:100%">
+  <tr>
+    <td><img src="https://weamyl.met.no/assets/images/met/img1.jpeg"></td>
+    <td><img src="https://weamyl.met.no/assets/images/met/img2.jpeg"></td>
+  </tr>
+  <tr>
+    <td><img src="https://weamyl.met.no/assets/images/met/img3.jpg"></td>
+    <td><img src="https://weamyl.met.no/assets/images/met/img4.jpg"></td>
+  </tr>
+
+</table>
 
 
 </div>
