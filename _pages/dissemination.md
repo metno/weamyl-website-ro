@@ -297,7 +297,7 @@ title: "Diseminare"
 </ul>-->
 </div>
 
-<button type="button" class="collapsible">Comunicate de presă</button>
+<button type="button" class="collapsible">Interviuri și Comunicate de presă</button>
 <div class="content">
 
 <ul>
@@ -311,6 +311,8 @@ title: "Diseminare"
 <li style="font-size:80%"> <p> <a  href="https://news.ubbcluj.ro/ubb-organizeaza-online-prima-editie-a-workshopului-in-invatare-profunda-aplicata-weadl2021/">Comunicat de presă, UBB, 27.05.2021</a></p></li>
 
 <li style="font-size:80%"> <p> <a href="https://news.ubbcluj.ro/cadre-universitare-ale-ubb-prezente-la-evenimentul-itdays/">Comunicat de presă, UBB, 9.11.2021</a></p></li>
+
+<li style="font-size:80%">  <p> <a href="https://www.youtube.com/watch?v=hRYDuOGmDus&list=PLccBW8zEAWWnhED1LB7XO-Y5U7WLHHY-G&index=17">Research in the spotlight, Prof. Gabriela Czibula, 2022 </a></p></li>
 
 <li style="font-size:80%">  <p> <a href="https://www.cs.ubbcluj.ro/a-doua-editie-a-workshopului-in-invatare-profunda-aplicata-weadl-2022/"> Comunicat de presă, Facultatea de Matematică și Informatică (UBB), 26.05.2022</a></p></li>
 
