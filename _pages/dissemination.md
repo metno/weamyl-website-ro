@@ -354,7 +354,7 @@ title: "Diseminare"
 
 <li style="font-size:80%"> <p> <a href="https://weamyl.met.no/assets/files/raport22.pdf">Rezumatul raportului tehnic 2022</a></p></li>
 
-<li style="font-size:80%"> <p> <a href="">Rezumatul raportului tehnic 2023</a></p></li>
+<li style="font-size:80%"> <p> <a href="https://weamyl.met.no/assets/files/raport23.pdf">Rezumatul raportului tehnic 2023</a></p></li>
 
 </ul>
 </div>
