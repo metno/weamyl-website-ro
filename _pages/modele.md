@@ -49,7 +49,7 @@ Platforma de prognoză este formată din următoarele componente:</p>
 <ul>
 <li> <p class="small" align="justify"> GeoWeb - aplicație web folosită pentru a vizualiza diferite date meteorologice. Aceasta include rezultate de la algoritmul de învățare automată și avertismente CAP.</p></li>
 
-<li style="small"><p class="small" align="justify">  WebMapService - Servicii care furnizează diferite date meteorologice, inclusiv imagini din satelit a modelului, date radar, observatii obtinute in timp real ca imagini care pot fi afișate pe o hartă. </p></li>
+<li style="small"><p class="small" align="justify">  WebMapService - Servicii care furnizează diferite date meteorologice, inclusiv imagini din satelit a modelului, date radar, observații obținute în timp real ca imagini care pot fi afișate pe o hartă. </p></li>
 
 <li > <p class="small" align="justify"><a href="https://weamyl.met.no/models1">Algoritmi Machine Learning</a> - realizează prognoze bazându-se cele mai recente seturi de date radar înregistrate.</p></li>
 
@@ -78,7 +78,7 @@ Platforma de prognoză este formată din următoarele componente:</p>
   <source src="https://weamyl.met.no/assets/videos/weamyl_video.mp4" type="video/mp4">
 </video>
 <br><br>
-<p class="small" align="justify"><b>Video 2.</b> Un exemplu ilustrând factorul echivalent de reflectivitate observat (stânga) versus predicția XNow 1.0.0 (mijloc) versus predicția XNow 2.0.3 (dreapta) utilizând serviciul de cartografiere Open GeoWeb pentru evenimente meteo în data de 28 iunie 2022 la ora 09:55 UTC. Acest videoclip este generat folosind modelele, deoarece platforma este destinată să fie utilizată de meteorologi pentru a analiza vremea în 60 de minute în viitor.	</p>
+<p class="small" align="justify"><b>Video 2.</b> Un exemplu ilustrând factorul echivalent de reflectivitate observat (stânga) versus predicția XNow 1.0.0 (mijloc) versus predicția XNow 2.0.3 (dreapta) utilizând serviciul de cartografiere Open GeoWeb pentru evenimente meteo în data de 28 iunie 2022 la ora 09:55 UTC. Acest videoclip este generat folosind modelele, deoarece platforma este destinată să fie utilizată de meteorologi pentru a analiza vremea cu anticipație de 60 de minute.	</p>
 
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/video29mar.mp4" type="video/mp4">
