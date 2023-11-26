@@ -31,63 +31,69 @@ title: "Rezultate"
 </style>
 </head>
 <body>
+<a href="https://metno.github.io/weamyl-website-ro/modele1"><button type="button">Modele de învățare profundă pentru platforma de prognoză</button></a>
+<h2>Sistemul WeaMyL</h2>
+
 <figure>
   <center><figcaption>Sistemul WeaMyL</figcaption></center>
   <img src="https://weamyl.met.no/assets/images/Container.png" alt="Sistemul WeaMyL" style="width:100%">
 </figure>
 
 
-<button type="button" class="collapsible"><h1>Modele de nowcasting</h1></button>
+
+<button type="button" class="collapsible"><h1>Platforma de prognoză</h1></button>
 <div class="content">
 
-<h2>XNow versiune 3.0.0</h2>
-<p class="small" align="justify">XNow versiune 3.0.3 - Ansamblu bazat pe Xception de 3 modele antrenate pe un set de date care conține 102 zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300 km x 300 km din jurul orașului Oslo pentru a prezice valorile compozite de reflectivitate în viitor, folosind valorile radar actuale și o funcție de pierdere optimizată. Ziua folosită pentru ilustrarea predicțiilor nu a fost folosită pentru antrenament.</p>
+<p class="small" align="justify">
+Platforma de prognoză este formată din următoarele componente:</p>
+<ul>
+<li> <p class="small" align="justify"> GeoWeb - aplicație web folosită pentru a vizualiza diferite date meteorologice. Aceasta include rezultate de la algoritmul de învățare automată și avertismente CAP.</p></li>
+
+<li style="small"><p class="small" align="justify">  WebMapService - Servicii care furnizează diferite date meteorologice, inclusiv imagini din satelit a modelului, date radar, observatii obtinute in timp real ca imagini care pot fi afișate pe o hartă. </p></li>
+
+<li > <p class="small" align="justify"><a href="https://weamyl.met.no/models1">Algoritmi Machine Learning</a> - realizează prognoze bazându-se cele mai recente seturi de date radar înregistrate.</p></li>
+
+<!--<li> <p class="small" align="justify"> WebMapServices - Services providing all kinds of meteorological data, including model output, satellite images, radar data, in situ observations, as images that can be displayed on a map.</p></li>-->
+
+<li > <p class="small" align="justify"> Editorul CAP - editor folosit de meteorolog pentru a furniza avertismente CAP.</p></li>
+
+<li> <p class="small" align="justify"> CAP feed -  serviciu care furnizează toate avertismentele CAP emise.</p></li>
+
+</ul>
+
+<!--<p class="small" align="justify">Mai jos este prezentat un exemplu de vizualizare a rezultatelor ML ca factor de reflectivitate echivalent prognozat (stânga) versus factor de reflectivitate echivalent observat (dreapta), folosind serviciul de cartografiere Open GeoWeb pentru evenimentul meteorologic din 08 aprilie 2022 la 18:05 UTC. Această vizualizare se bazează pe date asimilate la fiecare 5 până la 10 minute.</p>
+
+<img src="https://weamyl.met.no/assets/images/demo_GeoWeb.png" />
+
+<p class="small" align="justify"><b>Video 1.</b> Un exemplu care ilustrează rezultatul ML ca prognoză (stânga) față de factorul de reflectivitate echivalent observat (dreapta) folosind serviciul de cartografiere Open GeoWeb pentru evenimentul meteorologic din 08 aprilie 2022 la 18:05 UTC. Acest videoclip este generat pe baza datelor asimilate la fiecare 5 până la 10 minute.</p>
 
 <video width="100%" controls>
-  <source src="https://weamyl.met.no/assets/videos/V5_102Days.mp4" type="video/mp4" >
+  <source src="https://weamyl.met.no/assets/videos/GeoWeb_demo.mp4">
 </video>
 
-<h2>XNow versiune 2.0.4</h2>
-<p class="small" align="justify">XNow versiune 2.0.4 - Ansamblu bazat pe Xception de 3 modele antrenate pe un set de date care conține 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300 km x 300 km din jurul orașului Oslo pentru a prezice valorile compozite de reflectivitate în viitor, folosind valorile radar actuale și o funcție de pierdere optimizată. Ziua folosită pentru ilustrarea predicțiilor nu a fost folosită pentru antrenament.</p>
+</div>-->
+<p class="small" align="justify"><b>Video 1.</b> Videoclipul prezintă o comparație paralelă a reflectivității compozite reale, derivate din datele captate de radarul meteorologic Bobohalma (afișat în panoul din stânga) și reflectivitatea compozită prezisă generată de modelul WeaMyL, utilizând în special algoritmul de predicție SepConv 2.0.0. Acest videoclip este creat prin Visual Weather, software-ul de vizualizare operațională utilizat de Administrația Română de Meteorologie. Evenimentul prezentat a avut loc pe 15 noiembrie 2023, cu date colectate între orele 0:36 și 9:03 UTC. Este de remarcat faptul că absența datelor din sectorul azimut se datorează unei setări radar concepute pentru a limita volumul de scanare; această restricție este doar temporară și rezultă din instalarea în curs de desfășurare a unui nou radar meteorologic la fața locului.	</p>
 
 <video width="100%" controls>
-  <source src="https://weamyl.met.no/assets/videos/V4_new_01_07_2021.mp4" type="video/mp4" >
+  <source src="https://weamyl.met.no/assets/videos/weamyl_video.mp4" type="video/mp4">
 </video>
-
-<h2>XNow versiune 2.0.3</h2>
-<p class="small" align="justify">XNow versiune 2.0.3 - Ansamblu bazat pe Xception de 3 modele antrenate pe un set de date care conține 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300 km x 300 km din jurul orașului Oslo pentru a prezice valorile compozite de reflectivitate în viitor folosind valorile radar actuale. Ziua folosită pentru ilustrarea predicțiilor nu a fost folosită pentru antrenament.</p>
+<br><br>
+<p class="small" align="justify"><b>Video 2.</b> Un exemplu ilustrând factorul echivalent de reflectivitate observat (stânga) versus predicția XNow 1.0.0 (mijloc) versus predicția XNow 2.0.3 (dreapta) utilizând serviciul de cartografiere Open GeoWeb pentru evenimente meteo în data de 28 iunie 2022 la ora 09:55 UTC. Acest videoclip este generat folosind modelele, deoarece platforma este destinată să fie utilizată de meteorologi pentru a analiza vremea în 60 de minute în viitor.	</p>
 
 <video width="100%" controls>
-  <source src="https://weamyl.met.no/assets/videos/V3_old_01_07_2021.mp4" type="video/mp4" >
+  <source src="https://weamyl.met.no/assets/videos/video29mar.mp4" type="video/mp4">
 </video>
-
-<h2>XNow versiune 1.0.0</h2>
-<p class="small" align="justify">XNow versiune 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Model bazat pe arhitectura Xception</a>
-antrenat pe un set de date conținând 45 de zile cu date radar <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. Modelul a fost antrenat pe o regiune de aproximativ 300km x 300km din jurul orașului Oslo, pentru predicția reflectivității compozite, folosind datele înregistrate pentru momentul actual. Ziua utilizată pentru ilustrarea predicțiilor nu a fost folosită la antrenare.
-</p>
-<video width="100%" controls>
-  <source src="https://weamyl.met.no/assets/videos/xnow-4steps-5min-publ.mp4" type="video/mp4">
-</video>
-<p class="small" align="center">XNow 5 min - bazat pe datele radar disponibile face predicție pentru următoarele 5 minute. </p>
-<video width="100%" controls>
-  <source src="https://weamyl.met.no/assets/videos/xnow-4steps-15min-publ.mp4" type="video/mp4">
-</video>
-<p class="small" align="center">XNow 15 min - bazat pe datele radar disponibile face predicție pentru următoarele 15 minute. </p>
-
-<h2> XNow versiune 0.0.1</h2>
-<p class="small" align="justify">XNow versiune 0.0.1 - Model preliminar bazat pe arhitectura Xception, antrenat pe un set de date conținând 6 zile cu fenomene meteorologice <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>, selectate din datele disponibile la <a href="https://api.met.no/weatherapi/metalerts/1.1?show=all&lang=en">weatherapi</a>. Modelul a fost antrenat pe o regiune de aproximativ 300km x 300km din jurul orașului Oslo, pentru predicția reflectivității compozite după un interval de 5 minute folosind datele înregistrate pentru momentul actual. Ziua utilizată pentru ilustrarea predicțiilor nu a fost folosită la antrenare.</p>
+<br><br>
+<p class="small" align="justify"><b>Video 3.</b> Acest clip a fost generat utilizând modelul XNow versiune 0.0.1, deoarece platforma este destinată analizării de către meteorologi a vremii cu anticipație de 5 minute.</p>
 
 <video width="100%" controls>
-  <source src="https://weamyl.met.no/assets/videos/xnow_5m_with_negative_5minutes_noRMSE_noCM.mp4" type="video/mp4">
+  <source src="https://weamyl.met.no/assets/videos/GeoWeb_demo.mp4" type="video/mp4">
 </video>
 
-<h2>ConvSNow 1.0.0</h2>
-<p class="small" align="justify"> ConvSNow versiunea 1.0.0 - Model LSTM convoluțional antrenat pe imagini satelit din Europa colectate de satelitul Meteosat-11 de la EUMESAT, utilizând produsul Severe Storms RGB.Modelul a fost antrenat în data de 24 iunie 2021. Datele folosite pentru ilustrarea predictiilor aparțin unei zile din iunie care nu a fost utilizată in antrenare.</p>
 
-<img src="https://weamyl.met.no/assets/images/ConvSNow.gif" style="width:50%">
-
-<p class="small" align="justify">ConvSNow 15 min - pe baza datelor satelit disponibile face predicție pentru produsul Severe Storms RGB pentru următoarele 15 minute. Animația din partea superioară reprezintă predicția modelului, iar animația din partea inferioară reprezintă observația actuală (reală).</p>
 </div>
+
+
 
 <button type="button" class="collapsible"><h1>Atlasul adnotat de observații meteorologice</h1></button>
 <div class="content">
@@ -104,39 +110,6 @@ antrenat pe un set de date conținând 45 de zile cu date radar <a href="https:/
 <img src="https://weamyl.met.no/assets/images/atlas2.png"/>
 <center><figcaption><b>Figura 2.</b> Interfața grafică a Atlasului Adnotat implementat la ANM</figcaption></center>
 </figure>
-</div>
-
-<button type="button" class="collapsible"><h1>Platforma de prognoză</h1></button>
-<div class="content">
-
-<p class="small" align="justify">
-Platforma de prognoză este formată din următoarele componente:</p>
-<ul>
-<li> <p class="small" align="justify"> GeoWeb - aplicație web folosită pentru a vizualiza diferite date meteorologice. Aceasta include rezultate de la algoritmul de învățare automată și avertismente CAP.</p></li>
-
-<li style="small"><p class="small" align="justify">  WebMapService - Servicii care furnizează diferite date meteorologice, inclusiv imagini din satelit a modelului, date radar, observatii obtinute in timp real ca imagini care pot fi afișate pe o hartă. </p></li>
-
-<li > <p class="small" align="justify">Algoritmi Machine Learning - realizează prognoze bazându-se pe producing forecasts based on the cele mai recente seturi de date radar înregistrate.</p></li>
-
-<!--<li> <p class="small" align="justify"> WebMapServices - Services providing all kinds of meteorological data, including model output, satellite images, radar data, in situ observations, as images that can be displayed on a map.</p></li>-->
-
-<li > <p class="small" align="justify"> Editorul CAP -
-editor folosit de meteorolog pentru a furniza avertismente CAP.</p></li>
-
-<li> <p class="small" align="justify"> CAP feed -  serviciu care furnizează toate avertismentele CAP emise.</p></li>
-
-</ul>
-
-<p class="small" align="justify">Mai jos este prezentat un exemplu de vizualizare a rezultatelor ML ca factor de reflectivitate echivalent prognozat (stânga) versus factor de reflectivitate echivalent observat (dreapta), folosind serviciul de cartografiere Open GeoWeb pentru evenimentul meteorologic din 08 aprilie 2022 la 18:05 UTC. Această vizualizare se bazează pe date asimilate la fiecare 5 până la 10 minute.</p>
-
-<img src="https://weamyl.met.no/assets/images/demo_GeoWeb.png" />
-
-<p class="small" align="justify"><b>Video 1.</b> Un exemplu care ilustrează rezultatul ML ca prognoză (stânga) față de factorul de reflectivitate echivalent observat (dreapta) folosind serviciul de cartografiere Open GeoWeb pentru evenimentul meteorologic din 08 aprilie 2022 la 18:05 UTC. Acest videoclip este generat pe baza datelor asimilate la fiecare 5 până la 10 minute.</p>
-
-<video width="100%" controls>
-  <source src="https://weamyl.met.no/assets/videos/GeoWeb_demo.mp4">
-</video>
-
 </div>
 
 <script>
