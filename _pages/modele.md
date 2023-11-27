@@ -35,13 +35,13 @@ title: "Rezultate"
 <h2>Sistemul WeaMyL</h2>
 
 <figure>
-  <center><figcaption>Sistemul WeaMyL</figcaption></center>
+  <!--<center><figcaption>Sistemul WeaMyL</figcaption></center>-->
   <img src="https://weamyl.met.no/assets/images/Container.png" alt="Sistemul WeaMyL" style="width:100%">
 </figure>
 
 
 
-<button type="button" class="collapsible"><h1>Platforma de prognoză</h1></button>
+<button type="button" class="collapsible">Platforma de prognoză</button>
 <div class="content">
 
 <p class="small" align="justify">
@@ -95,7 +95,7 @@ Platforma de prognoză este formată din următoarele componente:</p>
 
 
 
-<button type="button" class="collapsible"><h1>Atlasul adnotat de observații meteorologice</h1></button>
+<button type="button" class="collapsible">Atlasul adnotat de observații meteorologice</button>
 <div class="content">
 
 <p class="small" align="justify">Această componentă oferă o interfață web unui motor de căutare conectat la o bază de date semantică care conține avertismente de vreme severă. Interfața web este ușor de utilizat și permite căutarea/filtrarea pentru diferite tipuri de evenimente meteorologice și, de asemenea, pentru anumite evenimente meteo. Interfața web oferă și posibilitatea de a investiga zone geografice afectate de evenimente adnotate și anterioare. În plus, oferă informații despre locația fișierelor de date sursă, oferind astfel suport în antrenarea modelelor de învățare automată pentru detectarea posibilelor evenimente meteo interesante. Figura 1 ilustrează interfața grafică a Atlasului Adnotat implementat la MET.

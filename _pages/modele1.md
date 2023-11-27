@@ -43,21 +43,21 @@ title: "Modele"
 
 
 <h3>XNow 3.0.0</h3>
-<p class="small" align="justify">XNow 3.0.0 - ansamblu de tipul Xception cu 3 modele antrenate pe un set de date  conținând 102 zile de date radar (thredds). Fiecare model a fost antrenat pe o region de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
+<p class="small" align="justify">XNow 3.0.0 - ansamblu de 3 modele de tip Xception antrenate pe un set de date  conținând 102 zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
 
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/V5_102Days.mp4" >
 </video>
 
 <h3>XNow 2.0.4</h3>
-<p class="small" align="justify">XNow 2.0.4 - ansamblu de tipul Xception cu 3 modele antrenate pe un set de date  conținând 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o region de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
+<p class="small" align="justify">XNow 2.0.4 - ansamblu de 3 modele de tip Xception antrenate pe un set de date conținând 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
 
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/V4_new_01_07_2021.mp4" >
 </video>
 
 <h3>XNow 2.0.3</h3>
-<p class="small" align="justify">XNow 2.0.3 - ansamblu de tipul Xception cu 3 modele antrenate pe un set de date  conținând 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o region de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
+<p class="small" align="justify">XNow 2.0.3 - ansamblu de 3 modele de tip Xception antrenate pe un set de date  conținând 45 de zile de date radar (thredds). Fiecare model a fost antrenat pe o regiune de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
 
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/V3_old_01_07_2021.mp4" type="video/mp4" >
@@ -65,9 +65,9 @@ title: "Modele"
 
 
 
-<h3> XNow versiune 1.0.0</h3>
+<h3> XNow 1.0.0</h3>
 
-<p class="small" align="justify">XNow 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">Xception-based model</a> antrenat pe un set de date conținând 45 de zile de date radar <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. Fiecare model a fost antrenat pe o region de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
+<p class="small" align="justify">XNow 1.0.0 - <a href="https://ieeexplore.ieee.org/document/9118849">model bazat pe arhitectura Xception</a> antrenat pe un set de date conținând 45 de zile de date radar <a href="https://thredds.met.no/thredds/catalog/remotesensing/reflectivity-nordic/catalog.html">(thredds)</a>. Fiecare model a fost antrenat pe o regiune de aproximativ 300km x 300km în jurul orașului Oslo pentru predicția valorilor reflectivității composite din viitor, utilizând valorile radar curente și o funcție loss îmbunătățită. Ziua utilizată pentru ilustrarea predicțiilor nu a fost utilizată în antrenare.</p>
 
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/xnow-4steps-5min-publ.mp4" type="video/mp4">
@@ -93,7 +93,7 @@ title: "Modele"
 <div class="content">
 
 <h3>SepConv 2.0.0</h3>
-<p class="small" align="justify">SepConv 2.0.0 - Ansamblu bazat pe Rețea Neuronală Convoluțională Separabilă de 3 modele antrenate pe un set de date care conține 211 zile cu evenimente convective (din 2020, 2021 și 2022) care au avut loc în centrul României, pe o zonă definită de o rază de 230 km față de locul radar. Pentru a prezice reflectivitatea maximă pentru 6 până la 48 de minute înainte, modelul utilizează reflectivitatea radar de la patru marcaje de timp anterioare ca intrare. Exemplele de mai jos arată comparația de predicție radar - model DL pentru 7 mai 2023, pentru un interval de 22,7 ore (6 min înainte) și, respectiv, 22,3 ore (20 min înainte).
+<p class="small" align="justify">SepConv 2.0.0 - Ansamblu de 3 modele bazate pe Rețele Neuronale Convoluționale Separabile antrenate pe un set de date care conține 211 zile cu evenimente convective (din 2020, 2021 și 2022) care au avut loc în centrul României, pe o zonă definită de o rază de 230 km față de locul radar. Pentru a prezice reflectivitatea maximă pentru 6 până la 48 de minute în avans, modelul utilizează reflectivitatea radar de la patru momente de timp anterioare ca intrare. Exemplele de mai jos arată comparația de predicție radar - model DL pentru 7 mai 2023, pentru un interval de 22,7 ore (6 min înainte) și, respectiv, 22,3 ore (20 min înainte).
  </p>
 <video width="100%" controls>
   <source src="https://weamyl.met.no/assets/videos/anm_V2_wl32_3ani_6min.mp4" type="video/mp4" >
