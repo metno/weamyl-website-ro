@@ -3,7 +3,7 @@ permalink: /about/
 title: "Despre proiectul WeaMyL"
 ---
 
-<p align="justify"><small>Proiectul WeaMyL și-a propus să îmbunătățească acuratețea, performanța și fiabilitatea sistemelor naționale de avertizare <i>nowcasting</i> prin utilizarea tehnicilor de învățare automată (ML) aplicate pe observațiile radarului, satelitului și stațiilor meteo. Accentul s-a pus pe obținerea unei precizii mai mari în prezicerea apariției și a zonelor afectate de fenomene meteorologice severe, precum și pe obținerea unor timpi de decizie mai mici (în comparație cu timpi de decizie actuali, exclusiv umani). Scopul principal al proiectului a fost de a automatiza sistemele de avertizare <i>nowcasting</i> prin crearea unei platforme bazate pe ML pentru prognoza timpurie și precisă a fenomenelor severe. Astfel, s-a urmărit să fie coloana vertebrală a unui nou cadru pentru detectarea iminentă a vremii severe, adaptat posibilităților tehnologice actuale.</small></p>
+<p align="justify"><small>Proiectul WeaMyL și-a propus să îmbunătățească acuratețea, performanța și fiabilitatea sistemelor naționale de avertizare <i>nowcasting</i> prin utilizarea tehnicilor de învățare automată (ML) aplicate pe observațiile obținute de la radar, satelit și stații meteo. Accentul s-a pus pe obținerea unei precizii mai mari în prezicerea apariției și a zonelor afectate de fenomene meteorologice severe, precum și pe obținerea unor timpi de decizie mai mici (în comparație cu timpi de decizie actuali, exclusiv umani). Scopul principal al proiectului a fost de a automatiza sistemele de avertizare <i>nowcasting</i> prin crearea unei platforme bazate pe ML pentru prognoza timpurie și precisă a fenomenelor severe. Astfel, s-a urmărit să fie baza unui nou cadru pentru detectarea iminentă a vremii severe, adaptat posibilităților tehnologice actuale.</small></p>
 
 ## Obiective principale
 
@@ -21,7 +21,7 @@ title: "Despre proiectul WeaMyL"
 
 <!--* Integrarea platformei WeaMyL în cadrul sistemelor naționale de avertizare meteorologică din Norvegia și România. Platforma WeaMyL va fi integrată cu sistemele software relevante ale Serviciilor Meteorologice Naționale. Această integrare va facilita în mod direct activitatea meteorologilor, asistându-i în procesul de decizie _nowcasting_ și va accelera procedurile de emitere a alertelor.-->
 
-<li><p align="justify"><small>Contribuiția la dezvoltarea cunoștințelor științifice prin diseminarea rezultatelor științifice obținute prin publicații științifice, site-ul web al proiectului și social media.</small></p></li>
+<li><p align="justify"><small>Contribuția la dezvoltarea cunoștințelor științifice prin diseminarea rezultatelor științifice obținute prin publicații științifice, site-ul web al proiectului și social media.</small></p></li>
 </ul>
 
 ## Platforma software WeaMyL
@@ -32,7 +32,7 @@ title: "Despre proiectul WeaMyL"
 
 <li><p align="justify"><small><b>Atlas adnotat de observații meteorologice.</b> Componenta Atlas adnotat furnizează o bază de date semantică asupra volumului mare de date istorice din surse variate, inclusiv observațiile stațiilor meteo, radar și imagini prin satelit. Principalele sale obiective au fost de a facilita studiul condițiilor din trecut utilizând analize statistice și comparative, furnizarea de informații inteligente bazate pe un model de date semantice și furnizarea unui model de adnotare personalizat, extensibil, între tipurile și sursele de observație. Componenta Atlas oferă două funcționalități principale: (a) gestionarea Atlasului și (b) vizualizări, statistici și rapoarte bazate pe datele meteorologice istorice stocate în Atlas.</small></p></li>
 
-<li><p align="justify"><small><b>Modul de integrare.</b> Pentru ca componentele de mai sus să ofere informații acționabile, acestea trebuie să fie integrate cu sistemele software existente. Scopul acestui modul este de a oferi o serie de conectori pentru consumatori și furnizori de date care pot fi integrați în sistemele existente. Atât Platforma de prognoză, cât și Atlasul adnotat acționează drept consumatori pentru datele meteorologice generate în timp real, în timp ce platforma de prognoză furnizează date relevante pentru vremea severă viitoare.</small></p></li>
+<li><p align="justify"><small><b>Modul de integrare.</b> Pentru ca componentele de mai sus să ofere informații acționabile, acestea au fost integrate cu sistemele software existente. Scopul acestui modul este de a oferi o serie de conectori pentru consumatori și furnizori de date care pot fi integrați în sistemele existente. Atât Platforma de prognoză, cât și Atlasul adnotat acționează drept consumatori pentru datele meteorologice generate în timp real, în timp ce platforma de prognoză furnizează date relevante pentru vremea severă viitoare.</small></p></li>
 </ul>
 
 
@@ -44,11 +44,11 @@ title: "Despre proiectul WeaMyL"
 <p align="justify"><small>În acest pachet de lucru, am efectuat mai întâi o documentare, un studiu și analize de literatură. Apoi, am identificat limitările abordărilor și soluțiilor de ultimă generație existente în tehnologia <i>nowcasting</i>. Ulterior, ne-am propus să definim cerințele funcționale și nefuncționale pentru WeaMyL, inclusiv cerințele utilizatorului final, precum și principalele condiții pentru buna funcționare a sistemului, pentru a stabili arhitectura generală și proiectarea platformei software WeaMyL.</small></p>
 
 ### WP2 - Modele de învățare automată pentru nowcasting
-<p align="justify"><small>Cel de-al doilea pachet de lucru constă în definirea unui model teoretic pentru <i>nowcasting</i> împreună cu (2) Dezvoltarea de modele ML scalabile special adaptate pentru <i>nowcasting</i> precis. (3) Validarea științifică a modelelor ML dezvoltate utilizând analiza și interpretarea rezultatelor experimentale, precum și comparația cu alte abordări din literatură.</small></p>
+<p align="justify"><small>Cel de-al doilea pachet de lucru a constat în definirea unui model teoretic pentru <i>nowcasting</i> împreună cu (2) Dezvoltarea de modele ML scalabile special adaptate pentru <i>nowcasting</i> precis. (3) Validarea științifică a modelelor ML dezvoltate utilizând analiza și interpretarea rezultatelor experimentale, precum și comparația cu alte abordări din literatură.</small></p>
 
 ### WP3 - Dezvoltare software, testare și integrare
 <p align="justify"><small>WP3 s-a concentrat pe dezvoltarea de software, testarea și integrarea platformei cu sistemele naționale de avertizare. Platforma de prognoză este alcătuită din componentele ML (accesibile printr-un API) împreună cu front-end-ul. S-a depus un efort privind integrarea WeaMyL cu sistemele naționale de avertizare. Prototipul platformei a fost dezvoltat într-o manieră incrementală, iterativă, având ca obiectiv final integrarea cu succes în sistemele de avertizare meteorologică din România și Norvegia.</small></p>
 
 
 ### WP4 - Evaluare, interpretare și analiză meteorologică
-<p align="justify"><small>Activitățile WP4 includ extragerea, adnotarea și validarea datelor meteorologice relevante din bazele de date NMA și MET și pilotarea platformei în locațiile ANM și MET. Aceste activități au fost coordonate de ANM în strânsă cooperare cu MET-ML. Rezultatele privind acuratețea, performanța și fiabilitatea platformei au fost discutate cu MET-IT și UBB. Feedback-ul a fost utilizat pentru a îmbunătăți continuu modulele ML, componentele front-end și Atlasul adnotat.</small></p>
+<p align="justify"><small>Activitățile WP4 au inclus extragerea, adnotarea și validarea datelor meteorologice relevante din bazele de date NMA și MET și pilotarea platformei în locațiile ANM și MET. Aceste activități au fost coordonate de ANM în strânsă cooperare cu MET-ML. Rezultatele privind acuratețea, performanța și fiabilitatea platformei au fost discutate cu MET-IT și UBB. Feedback-ul a fost utilizat pentru a îmbunătăți continuu modulele ML, componentele front-end și Atlasul adnotat.</small></p>
