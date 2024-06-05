@@ -7,6 +7,8 @@ main:
     url: /partners/
   - title: Rezultate
     url: /modele/
+  - title: Evenimente
+    url: /evenimente/
   - title: Contact
     url : /contact/
   - title: Confidențialitate
@@ -25,6 +27,8 @@ page_links:
       url: /partners/
     - title: Rezultate
       url: /modele/
+    - title: Evenimente
+      url: /evenimente/
     - title: Confidențialitate
       url: /privacy/
     - title: Contact
